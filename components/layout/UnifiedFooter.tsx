@@ -7,6 +7,11 @@ import ChamberFooter from '@/components/chamber/layout/Footer';
 export default function UnifiedFooter() {
   const pathname = usePathname();
 
+  // Homepage: no footer (clean landing page)
+  if (pathname === '/') {
+    return null;
+  }
+
   const isChamberSection =
     pathname.startsWith('/chamber') ||
     pathname.startsWith('/merchants') ||

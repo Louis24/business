@@ -7,6 +7,11 @@ import ChamberHeader from '@/components/chamber/layout/Header';
 export default function UnifiedHeader() {
   const pathname = usePathname();
 
+  // Homepage: no header (clean landing page)
+  if (pathname === '/') {
+    return null;
+  }
+
   // Determine which header to render based on current route
   const isChamberSection =
     pathname.startsWith('/chamber') ||
