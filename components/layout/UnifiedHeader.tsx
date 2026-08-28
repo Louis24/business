@@ -1,8 +1,10 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
-import GuideHeader from '@/components/guide/layout/Header';
-import ChamberHeader from '@/components/chamber/layout/Header';
+import dynamic from 'next/dynamic';
+
+const GuideHeader = dynamic(() => import('@/components/guide/layout/Header'));
+const ChamberHeader = dynamic(() => import('@/components/chamber/layout/Header'));
 
 export default function UnifiedHeader() {
   const pathname = usePathname();

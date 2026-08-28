@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import { Building2, MapPin } from 'lucide-react';
 
+export const dynamic = 'force-static';
+
 export default function HomePage() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-background via-muted/30 to-background">

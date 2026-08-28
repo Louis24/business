@@ -1,8 +1,10 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
-import GuideFooter from '@/components/guide/layout/Footer';
-import ChamberFooter from '@/components/chamber/layout/Footer';
+import dynamic from 'next/dynamic';
+
+const GuideFooter = dynamic(() => import('@/components/guide/layout/Footer'));
+const ChamberFooter = dynamic(() => import('@/components/chamber/layout/Footer'));
 
 export default function UnifiedFooter() {
   const pathname = usePathname();
