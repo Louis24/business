@@ -1,12 +1,12 @@
 {
   "version": 1,
   "functions": {
-    "/[city]/[category]/[slug]": {},
-    "/chamber": {},
     "/[city]/[category]": {},
+    "/[city]/[category]/[slug]": {},
     "/[city]": {},
-    "/merchants": {},
+    "/chamber": {},
     "/merchant/[id]": {},
+    "/merchants": {},
     "/news": {},
     "/": {},
     "/product/[id]": {}

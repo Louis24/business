@@ -28,7 +28,7 @@ export default function MerchantsPageClient() {
   const [filters, setFilters] = useState<Filters>({
     industry: searchParams.get('industry') ?? '',
     chamber_position: '',
-    region: '',
+    region: searchParams.get('region') ?? '',
     search: searchParams.get('search') ?? '',
   });
   const [merchants, setMerchants] = useState<Merchant[]>([]);

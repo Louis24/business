@@ -3,12 +3,12 @@
   "/sitemap.xml/route": "app/sitemap.xml/route.js",
   "/page": "app/page.js",
   "/user/page": "app/user/page.js",
-  "/news/page": "app/news/page.js",
-  "/chamber/page": "app/chamber/page.js",
   "/merchants/page": "app/merchants/page.js",
+  "/news/page": "app/news/page.js",
   "/[city]/page": "app/[city]/page.js",
-  "/product/[id]/page": "app/product/[id]/page.js",
+  "/chamber/page": "app/chamber/page.js",
   "/merchant/[id]/page": "app/merchant/[id]/page.js",
   "/[city]/[category]/page": "app/[city]/[category]/page.js",
+  "/product/[id]/page": "app/product/[id]/page.js",
   "/[city]/[category]/[slug]/page": "app/[city]/[category]/[slug]/page.js"
 }

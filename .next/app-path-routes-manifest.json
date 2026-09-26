@@ -3,12 +3,12 @@
   "/sitemap.xml/route": "/sitemap.xml",
   "/page": "/",
   "/user/page": "/user",
-  "/news/page": "/news",
-  "/chamber/page": "/chamber",
   "/merchants/page": "/merchants",
+  "/news/page": "/news",
   "/[city]/page": "/[city]",
-  "/product/[id]/page": "/product/[id]",
+  "/chamber/page": "/chamber",
   "/merchant/[id]/page": "/merchant/[id]",
   "/[city]/[category]/page": "/[city]/[category]",
+  "/product/[id]/page": "/product/[id]",
   "/[city]/[category]/[slug]/page": "/[city]/[category]/[slug]"
 }
