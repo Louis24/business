@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* === Default Tourism / Travel Theme (Light Mode) === */
+    --background: 38 30% 97%;
+    --foreground: 28 40% 12%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 28 40% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 28 40% 12%;
+
+    --primary: 36 48% 61%;          /* #C9A96E Gold */
+    --primary-foreground: 28 40% 10%;
+
+    --secondary: 112 20% 33%;       /* #4A6741 Sage */
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 38 20% 93%;
+    --muted-foreground: 30 15% 50%;
+
+    --accent: 36 50% 55%;
+    --accent-foreground: 28 40% 10%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 36 20% 86%;
+    --input: 36 20% 86%;
+    --ring: 36 48% 61%;
+
+    --radius: 0.5rem;
+
+    --chart-1: 36 48% 55%;
+    --chart-2: 112 20% 40%;
+    --chart-3: 25 80% 55%;
+    --chart-4: 200 50% 45%;
+    --chart-5: 340 60% 50%;
+
+    --chamber-blue: 215 55% 24%;
+    --chamber-gold: 42 52% 52%;
+    --chamber-gold-light: 42 60% 92%;
+  }
+
+  /* Chamber Brand Theme Scope */
+  .theme-chamber {
+    --primary: 215 55% 24%;
+    --primary-foreground: 0 0% 98%;
+
+    --accent: 42 52% 52%;
+    --accent-foreground: 0 0% 10%;
+
+    --background: 225 25% 98%;
+    --foreground: 215 30% 12%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 30% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 30% 12%;
+
+    --secondary: 215 20% 94%;
+    --secondary-foreground: 215 30% 20%;
+
+    --muted: 215 15% 93%;
+    --muted-foreground: 215 15% 50%;
+
+    --border: 215 20% 88%;
+    --input: 215 20% 88%;
+    --ring: 215 55% 24%;
+
+    --radius: 0.625rem;
+  }
+
+  .dark {
+    --background: 28 50% 7%;        /* #1A1208 */
+    --foreground: 38 50% 87%;
+
+    --card: 28 40% 11%;             /* #2C2015 */
+    --card-foreground: 38 50% 87%;
+    --popover: 28 40% 11%;
+    --popover-foreground: 38 50% 87%;
+
+    --primary: 36 48% 61%;          /* #C9A96E */
+    --primary-foreground: 28 40% 10%;
+
+    --secondary: 112 20% 33%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 28 30% 16%;
+    --muted-foreground: 38 30% 60%;
+
+    --accent: 36 48% 61%;
+    --accent-foreground: 28 40% 10%;
+
+    --destructive: 0 62% 40%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 28 30% 18%;           /* #3D2D1E */
+    --input: 28 30% 18%;
+    --ring: 36 48% 61%;
+  }
+
+  .dark.theme-chamber,
+  .theme-chamber.dark {
+    --background: 215 30% 8%;
+    --foreground: 215 20% 92%;
+
+    --card: 215 25% 11%;
+    --card-foreground: 215 20% 92%;
+    --popover: 215 25% 11%;
+    --popover-foreground: 215 20% 92%;
+
+    --primary: 215 55% 55%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 215 20% 16%;
+    --secondary-foreground: 215 20% 90%;
+
+    --muted: 215 20% 14%;
+    --muted-foreground: 215 15% 60%;
+
+    --accent: 42 52% 52%;
+    --accent-foreground: 0 0% 10%;
+
+    --border: 215 20% 18%;
+    --input: 215 20% 18%;
+    --ring: 215 55% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+}
+
+/* Custom utilities for Tropical Luxury Aesthetic */
+.font-serif {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #C9A96E 0%, #E8C98A 50%, #C9A96E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.badge-tier-featured {
+  background: linear-gradient(135deg, #C9A96E 0%, #E8C98A 100%);
+  color: #1A1208;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.divider-gold {
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, #C9A96E 50%, transparent 100%);
+  margin: 1.5rem auto;
+}

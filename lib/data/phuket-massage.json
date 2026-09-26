@@ -1,0 +1,327 @@
+[
+  {
+    "id": "m001",
+    "slug": "oasis-thai-massage-phuket",
+    "name": "Oasis Thai Massage",
+    "nameZh": "绿洲泰式按摩",
+    "tagline": "Authentic Thai Healing in the Heart of Patong",
+    "taglineZh": "巴东中心地带的正宗泰式疗愈",
+    "description": "Nestled in the heart of Patong Beach, Oasis Thai Massage offers a serene escape from the tropical bustle. Our certified therapists specialize in traditional northern Thai techniques passed down through generations, using locally-sourced herbal compresses and organic oils.",
+    "descriptionZh": "绿洲泰式按摩坐落于巴东海滩中心，提供远离热带喧嚣的宁静休憩之所。我们的认证治疗师专注于世代相传的泰式北方技法，使用本地采摘的草药球和有机精油。",
+    "category": "massage",
+    "city": "phuket",
+    "tier": "featured",
+    "heroImage": "/phuket/massage/oasis-hero.jpg",
+    "gallery": [
+      "/phuket/massage/oasis-1.jpg",
+      "/phuket/massage/oasis-2.jpg",
+      "/phuket/massage/oasis-3.jpg"
+    ],
+    "logoUrl": "/phuket/massage/oasis-logo.png",
+    "priceRange": "$$",
+    "startingPrice": 350,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 312,
+    "services": [
+      {
+        "id": "s001",
+        "name": "Thai Traditional Massage",
+        "nameZh": "泰式传统按摩",
+        "nameJa": "タイ古式マッサージ",
+        "nameKo": "태국 전통 마사지",
+        "description": "Full body stretch and pressure point technique, fully clothed",
+        "duration": 60,
+        "price": 350,
+        "currency": "THB"
+      },
+      {
+        "id": "s002",
+        "name": "Thai Herbal Compress Massage",
+        "nameZh": "泰式草药球按摩",
+        "nameJa": "ハーブボールマッサージ",
+        "nameKo": "허브볼 마사지",
+        "duration": 90,
+        "price": 550,
+        "currency": "THB"
+      },
+      {
+        "id": "s003",
+        "name": "Aroma Oil Massage",
+        "nameZh": "香薰精油按摩",
+        "duration": 60,
+        "price": 450,
+        "currency": "THB"
+      },
+      {
+        "id": "s004",
+        "name": "Foot Reflexology",
+        "nameZh": "足底反射疗法",
+        "duration": 60,
+        "price": 300,
+        "currency": "THB"
+      }
+    ],
+    "location": {
+      "lat": 7.8952,
+      "lng": 98.2975,
+      "address": "123 Rat-U-Thit 200 Pee Rd, Patong, Kathu, Phuket 83150",
+      "googleMapsUrl": "https://goo.gl/maps/example1"
+    },
+    "contact": {
+      "whatsapp": "+66812345678",
+      "wechat": "oasis_phuket",
+      "line": "@oasismassage",
+      "phone": "+66 76 341 234"
+    },
+    "openingHours": {
+      "open": "10:00",
+      "close": "23:00",
+      "days": "Daily"
+    },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["traditional thai", "herbal compress", "oil massage", "foot massage", "couples"],
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": "m002",
+    "slug": "royal-thai-spa-massage",
+    "name": "Royal Thai Spa & Massage",
+    "nameZh": "皇家泰式水疗按摩",
+    "tagline": "Where Ancient Wisdom Meets Modern Luxury",
+    "taglineZh": "古代智慧与现代奢华的完美融合",
+    "description": "Royal Thai Spa combines centuries-old Thai healing traditions with a luxurious spa environment. Enjoy our signature four-hands massage, deep tissue therapy, or indulge in a complete wellness package.",
+    "descriptionZh": "皇家泰式水疗融合百年泰式疗愈传统与奢华水疗环境。享受我们的招牌四手按摩、深层组织疗法，或沉浸于完整的养生套餐。",
+    "category": "massage",
+    "city": "phuket",
+    "tier": "featured",
+    "heroImage": "/phuket/massage/royal-hero.jpg",
+    "gallery": [
+      "/phuket/massage/royal-1.jpg",
+      "/phuket/massage/royal-2.jpg"
+    ],
+    "priceRange": "$$$",
+    "startingPrice": 600,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 487,
+    "services": [
+      {
+        "id": "s010",
+        "name": "Four-Hands Thai Massage",
+        "nameZh": "四手泰式按摩",
+        "duration": 60,
+        "price": 1200,
+        "currency": "THB"
+      },
+      {
+        "id": "s011",
+        "name": "Deep Tissue Massage",
+        "nameZh": "深层组织按摩",
+        "duration": 90,
+        "price": 800,
+        "currency": "THB"
+      },
+      {
+        "id": "s012",
+        "name": "Couples Massage Package",
+        "nameZh": "情侣按摩套餐",
+        "duration": 120,
+        "price": 2000,
+        "currency": "THB"
+      }
+    ],
+    "location": {
+      "lat": 7.8901,
+      "lng": 98.2960,
+      "address": "88 Bangla Road, Patong, Kathu, Phuket 83150",
+      "googleMapsUrl": "https://goo.gl/maps/example2"
+    },
+    "contact": {
+      "whatsapp": "+66823456789",
+      "wechat": "royalthai_phuket",
+      "line": "@royalthaispa"
+    },
+    "openingHours": {
+      "open": "11:00",
+      "close": "24:00",
+      "days": "Daily"
+    },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["four-hands", "couples", "deep tissue", "luxury", "late night"],
+    "createdAt": "2024-02-01T00:00:00Z"
+  },
+  {
+    "id": "m003",
+    "slug": "bamboo-massage-surin",
+    "name": "Bamboo Massage & Wellness",
+    "nameZh": "竹林按摩养生馆",
+    "tagline": "Natural Healing at Surin Beach",
+    "taglineZh": "苏林海滩的自然疗愈",
+    "description": "Located steps from pristine Surin Beach, Bamboo Massage offers a peaceful retreat with ocean breezes. Specializing in traditional foot reflexology and bamboo stick massage techniques.",
+    "descriptionZh": "坐落于美丽的苏林海滩旁，竹林按摩提供伴随海风的宁静休息之所。专注于传统足底反射疗法和竹棒按摩技法。",
+    "category": "massage",
+    "city": "phuket",
+    "tier": "verified",
+    "heroImage": "/phuket/massage/bamboo-hero.jpg",
+    "gallery": ["/phuket/massage/bamboo-1.jpg"],
+    "priceRange": "$",
+    "startingPrice": 250,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 198,
+    "services": [
+      {
+        "id": "s020",
+        "name": "Bamboo Stick Massage",
+        "nameZh": "竹棒按摩",
+        "duration": 60,
+        "price": 400,
+        "currency": "THB"
+      },
+      {
+        "id": "s021",
+        "name": "Foot Reflexology",
+        "nameZh": "足底反射疗法",
+        "duration": 45,
+        "price": 250,
+        "currency": "THB"
+      }
+    ],
+    "location": {
+      "lat": 7.9672,
+      "lng": 98.2879,
+      "address": "12 Surin Beach Rd, Cherngtalay, Thalang, Phuket 83110",
+      "googleMapsUrl": "https://goo.gl/maps/example3"
+    },
+    "contact": {
+      "whatsapp": "+66834567890",
+      "line": "@bamboomassage"
+    },
+    "openingHours": {
+      "open": "09:00",
+      "close": "22:00",
+      "days": "Daily"
+    },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["bamboo massage", "foot reflexology", "beach", "affordable"],
+    "createdAt": "2024-03-10T00:00:00Z"
+  },
+  {
+    "id": "m004",
+    "slug": "lotus-wellness-oldtown",
+    "name": "Lotus Wellness Center",
+    "nameZh": "莲花养生中心",
+    "tagline": "Traditional Healing in Phuket Old Town",
+    "taglineZh": "普吉镇传统疗愈圣地",
+    "description": "Tucked away in the charming streets of Phuket Old Town, Lotus Wellness offers an authentic Thai spa experience in a beautifully restored Sino-Portuguese shophouse.",
+    "descriptionZh": "隐藏于普吉镇迷人街道之中，莲花养生在一栋精美修缮的中葡风格店屋里，为您提供正宗的泰式水疗体验。",
+    "category": "massage",
+    "city": "phuket",
+    "tier": "verified",
+    "heroImage": "/phuket/massage/lotus-hero.jpg",
+    "gallery": ["/phuket/massage/lotus-1.jpg"],
+    "priceRange": "$$",
+    "startingPrice": 380,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 143,
+    "services": [
+      {
+        "id": "s030",
+        "name": "Thai Massage",
+        "nameZh": "泰式按摩",
+        "duration": 60,
+        "price": 380,
+        "currency": "THB"
+      },
+      {
+        "id": "s031",
+        "name": "Aromatherapy Massage",
+        "nameZh": "香薰按摩",
+        "duration": 90,
+        "price": 680,
+        "currency": "THB"
+      }
+    ],
+    "location": {
+      "lat": 7.8826,
+      "lng": 98.3849,
+      "address": "56 Thalang Rd, Tambon Talat Yai, Mueang, Phuket 83000",
+      "googleMapsUrl": "https://goo.gl/maps/example4"
+    },
+    "contact": {
+      "whatsapp": "+66845678901",
+      "wechat": "lotus_phuket_wellness"
+    },
+    "openingHours": {
+      "open": "10:00",
+      "close": "21:00",
+      "days": "Mon-Sat"
+    },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["old town", "traditional", "shophouse", "couples", "aromatherapy"],
+    "createdAt": "2024-04-05T00:00:00Z"
+  },
+  {
+    "id": "m005",
+    "slug": "sunrise-massage-kata",
+    "name": "Sunrise Massage Kata",
+    "nameZh": "日出按摩卡塔",
+    "tagline": "Morning Wellness at Kata Beach",
+    "taglineZh": "卡塔海滩的晨间养生",
+    "description": "Start your day right with a rejuvenating massage overlooking the sparkling waters of Kata Beach. Open from early morning, perfect for travelers wanting to energize before a day of exploration.",
+    "descriptionZh": "在眺望卡塔海滩波光粼粼海面的绝佳位置享受提神按摩，开启美好一天。清晨即开门，非常适合想在出游前振奋精神的旅行者。",
+    "category": "massage",
+    "city": "phuket",
+    "tier": "standard",
+    "heroImage": "/phuket/massage/sunrise-hero.jpg",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 280,
+    "currency": "THB",
+    "rating": 4.5,
+    "reviewCount": 89,
+    "services": [
+      {
+        "id": "s040",
+        "name": "Thai Massage",
+        "nameZh": "泰式按摩",
+        "duration": 60,
+        "price": 280,
+        "currency": "THB"
+      },
+      {
+        "id": "s041",
+        "name": "Back & Shoulder Massage",
+        "nameZh": "背部肩颈按摩",
+        "duration": 30,
+        "price": 180,
+        "currency": "THB"
+      }
+    ],
+    "location": {
+      "lat": 7.8198,
+      "lng": 98.2996,
+      "address": "7 Kata Rd, Karon, Mueang, Phuket 83100",
+      "googleMapsUrl": "https://goo.gl/maps/example5"
+    },
+    "contact": {
+      "whatsapp": "+66856789012",
+      "line": "@sunrisemassagekata"
+    },
+    "openingHours": {
+      "open": "08:00",
+      "close": "22:00",
+      "days": "Daily"
+    },
+    "isFeatured": false,
+    "isVerified": false,
+    "tags": ["early morning", "affordable", "beach view", "kata"],
+    "createdAt": "2024-05-20T00:00:00Z"
+  }
+]
