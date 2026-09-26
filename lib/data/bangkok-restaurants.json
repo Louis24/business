@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bkk-r01",
+    "slug": "jay-fai-bangkok",
+    "name": "Jay Fai",
+    "nameZh": "杰伊胖子·曼谷",
+    "tagline": "Michelin-starred street food, crab omelette legend",
+    "taglineZh": "米其林一星街头美食，蟹肉蛋卷传奇",
+    "description": "Jay Fai, the goggle-wearing street chef, earned Bangkok's most famous Michelin star with her wok-fired crab omelettes and drunken noodles. Expect a queue, cash-only payment and a once-in-a-lifetime taste of old Bangkok.",
+    "descriptionZh": "戴着滑雪镜的街头厨师 Jay Fai 凭炭火蟹肉蛋卷与醉面赢得曼谷最著名的米其林一星。需要排队、只收现金，但绝对是一生一次的老曼谷味道。",
+    "category": "restaurants",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 500,
+    "currency": "THB",
+    "rating": 4.5,
+    "reviewCount": 7200,
+    "services": [
+      { "id": "bkk-r01-s1", "name": "Crab Omelette (Kai Jeaw Poo)", "nameZh": "蟹肉蛋卷", "duration": 20, "price": 1000, "currency": "THB" },
+      { "id": "bkk-r01-s2", "name": "Drunken Noodles with Prawns", "nameZh": "泰式醉炒面配大虾", "duration": 20, "price": 800, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7526,
+      "lng": 100.5062,
+      "address": "327 Maha Chai Rd, Samran Rat, Phra Nakhon, Bangkok 10200"
+    },
+    "contact": { "phone": "+66 2 223 9384" },
+    "openingHours": { "open": "11:00", "close": "19:00", "days": "Tue–Sat" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["michelin star", "street food", "crab omelette", "old city"],
+    "createdAt": "2024-05-01T00:00:00Z"
+  },
+  {
+    "id": "bkk-r02",
+    "slug": "gaggan-anand-bangkok",
+    "name": "Gaggan Anand",
+    "nameZh": "加甘·阿南德餐厅·曼谷",
+    "tagline": "Asia's most daring progressive Indian tasting menu",
+    "taglineZh": "亚洲最具实验性的前卫印度料理",
+    "description": "Chef Gaggan Anand's eponymous restaurant serves one of Asia's most talked-about tasting menus — playful, emoji-decoded progressive Indian cuisine. Consistently ranked among the world's best restaurants; reservations essential.",
+    "descriptionZh": "主厨 Gaggan Anand 以自己名字命名的餐厅供应亚洲最受热议的品鉴菜单——用表情符号解码的趣味前卫印度料理。常年跻身全球最佳餐厅榜单，必须提前预约。",
+    "category": "restaurants",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$$",
+    "startingPrice": 4800,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 1900,
+    "services": [
+      { "id": "bkk-r02-s1", "name": "The Gaggan Experience Tasting Menu", "nameZh": "Gaggan 品鉴套餐", "duration": 150, "price": 6800, "currency": "THB" },
+      { "id": "bkk-r02-s2", "name": "Short Tasting Menu (Lunch)", "nameZh": "简版品鉴套餐（午餐）", "duration": 90, "price": 4800, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7375,
+      "lng": 100.5699,
+      "address": "68/4 Sukhumvit 31, Khlong Tan Nuea, Watthana, Bangkok 10110"
+    },
+    "contact": { "phone": "+66 2 116 0865" },
+    "openingHours": { "open": "17:00", "close": "23:00", "days": "Wed–Sun" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["progressive indian", "tasting menu", "worlds best", "sukhumvit"],
+    "createdAt": "2024-05-10T00:00:00Z"
+  },
+  {
+    "id": "bkk-r03",
+    "slug": "thipsamai-pad-thai-bangkok",
+    "name": "Thipsamai Pad Thai",
+    "nameZh": "提沙迈炒粉·曼谷",
+    "tagline": "The original Pad Thai, since 1966",
+    "taglineZh": "1966年开业的泰式炒粉鼻祖",
+    "description": "Thipsamai claims to serve the original Pad Thai, wrapped in a thin egg crepe and cooked over charcoal in the same shophouse since 1966. The 'Sit Jek' original recipe with orange juice remains a rite of passage for Bangkok food pilgrims.",
+    "descriptionZh": "Thipsamai 自称是最原始的泰式炒粉——薄薄的蛋皮包裹炭火炒制的河粉，自1966年起在同一家老宅营业。招牌「Sit Jek」原版配鲜橙汁，是曼谷美食朝圣必打卡。",
+    "category": "restaurants",
+    "city": "bangkok",
+    "tier": "standard",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 100,
+    "currency": "THB",
+    "rating": 4.3,
+    "reviewCount": 8400,
+    "services": [
+      { "id": "bkk-r03-s1", "name": "Pad Thai Sen Chan (Original)", "nameZh": "招牌原始炒粉", "duration": 15, "price": 180, "currency": "THB" },
+      { "id": "bkk-r03-s2", "name": "Pad Thai with Jumbo Prawns", "nameZh": "大虾炒粉", "duration": 15, "price": 400, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7513,
+      "lng": 100.5060,
+      "address": "313 Maha Chai Rd, Samran Rat, Phra Nakhon, Bangkok 10200"
+    },
+    "contact": { "phone": "+66 2 221 6280" },
+    "openingHours": { "open": "17:00", "close": "01:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": false,
+    "tags": ["pad thai", "street food", "heritage", "old city"],
+    "createdAt": "2024-05-20T00:00:00Z"
+  }
+]

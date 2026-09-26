@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bkk-g01",
+    "slug": "iconsiam-bangkok",
+    "name": "ICONSIAM",
+    "nameZh": "暹罗天地·曼谷",
+    "tagline": "Riverside mega-mall with floating market inside",
+    "taglineZh": "河畔超级商城，室内水上市场",
+    "description": "ICONSIAM is Bangkok's most spectacular riverside mall, home to luxury flagships, the indoor ICONSIAM floating market (Sook Siam) with street food from all 77 provinces, nightly riverside light shows and a free shuttle boat from Saphan Taksin.",
+    "descriptionZh": "ICONSIAM 是曼谷最壮观的河畔商城，汇集奢侈品牌旗舰店、室内水上市场 Sook Siam（汇集全泰77府街头美食）、每晚河畔灯光秀，并从郑皇桥站提供免费接驳船。",
+    "category": "shopping",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 0,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 34000,
+    "services": [
+      { "id": "bkk-g01-s1", "name": "Sook Siam Floating Market Food Tour", "nameZh": "暹罗天地水上市场美食之旅", "duration": 120, "price": 600, "currency": "THB" },
+      { "id": "bkk-g01-s2", "name": "Free Shuttle Boat from Saphan Taksin", "nameZh": "郑皇桥免费接驳船", "duration": 15, "price": 0, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7207,
+      "lng": 100.5117,
+      "address": "299 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok 10600"
+    },
+    "contact": { "phone": "+66 2 495 2000" },
+    "openingHours": { "open": "10:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["mega mall", "floating market", "riverside", "luxury brands"],
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": "bkk-g02",
+    "slug": "chatuchak-weekend-market",
+    "name": "Chatuchak Weekend Market",
+    "nameZh": "恰图恰周末市场",
+    "tagline": "15,000 stalls — the world's largest weekend market",
+    "taglineZh": "一万五千个摊位，全球最大周末市场",
+    "description": "Chatuchak covers 27 sections and over 15,000 stalls selling everything from vintage clothes and artisan crafts to plants, pets and street food. Go early, carry small bills, and cool down with fresh coconut ice cream.",
+    "descriptionZh": "恰图恰市场分为27个区域、超过1.5万个摊位，从复古服饰、手工工艺品到绿植、宠物与街头小吃应有尽有。建议早去、备好零钱，再来一份椰子冰淇淋解暑。",
+    "category": "shopping",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 0,
+    "currency": "THB",
+    "rating": 4.5,
+    "reviewCount": 41000,
+    "services": [
+      { "id": "bkk-g02-s1", "name": "Vintage & Handicraft Section Tour", "nameZh": "复古手工艺区逛吃路线", "duration": 180, "price": 300, "currency": "THB" },
+      { "id": "bkk-g02-s2", "name": "Coconut Ice Cream", "nameZh": "招牌椰子冰淇淋", "duration": 10, "price": 60, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7999,
+      "lng": 100.5500,
+      "address": "587/10 Kamphaeng Phet 2 Rd, Chatuchak, Bangkok 10900"
+    },
+    "contact": { "phone": "+66 2 279 6113" },
+    "openingHours": { "open": "09:00", "close": "18:00", "days": "Sat–Sun (some sections daily)" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["weekend market", "bargains", "street food", "mrt accessible"],
+    "createdAt": "2024-06-10T00:00:00Z"
+  },
+  {
+    "id": "bkk-g03",
+    "slug": "siam-paragon-bangkok",
+    "name": "Siam Paragon",
+    "nameZh": "暹罗百丽宫·曼谷",
+    "tagline": "The heart of Bangkok's shopping district",
+    "taglineZh": "曼谷购物区的心脏",
+    "description": "Siam Paragon anchors the Siam shopping district with luxury boutiques, the vast Gourmet Market food hall, an aquarium (Sea Life Bangkok) and direct BTS Siam access — the perfect one-stop stop between sightseeing and shopping.",
+    "descriptionZh": "暹罗百丽宫坐镇暹罗购物区核心，汇集奢侈精品店、超大的 Gourmet Market 美食超市、暹罗海洋世界水族馆，BTS 暹罗站直达，是观光购物的一站式枢纽。",
+    "category": "shopping",
+    "city": "bangkok",
+    "tier": "standard",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 0,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 56000,
+    "services": [
+      { "id": "bkk-g03-s1", "name": "Gourmet Market Food Hall", "nameZh": "Gourmet Market 美食广场", "duration": 60, "price": 500, "currency": "THB" },
+      { "id": "bkk-g03-s2", "name": "Sea Life Bangkok Ocean World Ticket", "nameZh": "暹罗海洋世界门票", "duration": 120, "price": 990, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7468,
+      "lng": 100.5347,
+      "address": "991 Rama I Rd, Pathum Wan, Bangkok 10330"
+    },
+    "contact": { "phone": "+66 2 610 9000" },
+    "openingHours": { "open": "10:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["luxury mall", "food hall", "aquarium", "bts siam"],
+    "createdAt": "2024-06-15T00:00:00Z"
+  }
+]

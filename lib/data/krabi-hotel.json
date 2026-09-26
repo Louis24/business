@@ -1,0 +1,107 @@
+[
+  {
+    "id": "krb-h01",
+    "slug": "rayavadee-krabi",
+    "name": "Rayavadee",
+    "nameZh": "瑞亚维德度假村·莱利",
+    "tagline": "Krabi's icon — villas hidden among limestone giants",
+    "taglineZh": "甲米地标——石灰岩峭壁间的隐世别墅",
+    "description": "Accessible only by longtail boat, Rayavadee spreads across 26 acres of lush gardens where Krabi's limestone cliffs meet three beaches. Pavilions, villas with private pools and the famous Grotto beach bar define barefoot-luxury Krabi.",
+    "descriptionZh": "只能乘长尾船抵达的 Rayavadee 坐拥 26 英亩葱郁花园，甲米标志性的石灰岩峭壁在此与三片海滩相拥。亭台别墅、私人泳池与著名的 Grotto 海滩酒吧，定义了甲米的赤足奢华。",
+    "category": "hotel",
+    "city": "krabi",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$$",
+    "startingPrice": 16000,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 1600,
+    "services": [
+      { "id": "krb-h01-s1", "name": "2-Bedroom Pavilion · Nightly Rate", "nameZh": "两卧亭台别墅·每晚", "duration": 1, "price": 28000, "currency": "THB" },
+      { "id": "krb-h01-s2", "name": "Land Villa · Nightly Rate", "nameZh": "花园别墅·每晚", "duration": 1, "price": 16000, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0118,
+      "lng": 98.8383,
+      "address": "214 Moo 2, Tambon Ao Nang, Amphoe Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 620 620" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["luxury resort", "railay", "private pool", "iconic"],
+    "createdAt": "2024-04-01T00:00:00Z"
+  },
+  {
+    "id": "krb-h02",
+    "slug": "centara-grand-beach-resort-krabi",
+    "name": "Centara Grand Beach Resort & Villas Krabi",
+    "nameZh": "圣塔拉海滩度假酒店·甲米",
+    "tagline": "Colonial-style resort on a boat-only beach",
+    "taglineZh": "只可乘船抵达的殖民风海滩度假酒店",
+    "description": "Set in its own secluded bay at Pai Plong, beneath towering cliffs, Centara Grand offers colonial-style rooms, a dramatic hilltop pool and three restaurants. Reached by the resort's own boat from Ao Nang — pure castaway luxury.",
+    "descriptionZh": "Centara Grand 坐落于攀龙湾的僻静海湾，背靠高耸峭壁，提供殖民风格客房、山顶泳池与三家餐厅。乘酒店专属船只从奥南海滩抵达——纯粹的荒岛奢华。",
+    "category": "hotel",
+    "city": "krabi",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 5500,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 4200,
+    "services": [
+      { "id": "krb-h02-s1", "name": "Grand Deluxe Room · Nightly Rate", "nameZh": "豪华客房·每晚", "duration": 1, "price": 5800, "currency": "THB" },
+      { "id": "krb-h02-s2", "name": "Beachfront Pool Villa · Nightly Rate", "nameZh": "海滨泳池别墅·每晚", "duration": 1, "price": 11500, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0225,
+      "lng": 98.8319,
+      "address": "496 Moo 5, Pai Plong Bay, Ao Nang, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 604 555" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["secluded bay", "colonial style", "boat transfer", "family friendly"],
+    "createdAt": "2024-04-10T00:00:00Z"
+  },
+  {
+    "id": "krb-h03",
+    "slug": "dusit-thani-krabi",
+    "name": "Dusit Thani Krabi Beach Resort",
+    "nameZh": "都喜天丽海滩度假村·甲米",
+    "tagline": "Sweeping pool and Andaman sunsets at Klong Muang",
+    "taglineZh": "空穆海滩的超大泳池与安达曼日落",
+    "description": "Dusit Thani Krabi stretches along the quiet Klong Muang beach, with one of the largest resort pools in Thailand, extensive gardens and Thai hospitality at its best — a calm, family-friendly base away from Ao Nang's bustle.",
+    "descriptionZh": "都喜天丽甲米绵延于安静的空穆海滩，拥有泰国最大的度假村泳池之一、大片花园与极致泰式待客之道——远离奥南喧嚣，是亲子度假的宁静之选。",
+    "category": "hotel",
+    "city": "krabi",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 4200,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 3800,
+    "services": [
+      { "id": "krb-h03-s1", "name": "Superior Room · Nightly Rate", "nameZh": "高级客房·每晚", "duration": 1, "price": 4200, "currency": "THB" },
+      { "id": "krb-h03-s2", "name": "Deluxe Balcony Room · Nightly Rate", "nameZh": "豪华阳台房·每晚", "duration": 1, "price": 5800, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0763,
+      "lng": 98.7886,
+      "address": "90 Moo 3, Klong Muang Beach, Nong Thale, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 625 888" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["large pool", "quiet beach", "family friendly", "klong muang"],
+    "createdAt": "2024-04-20T00:00:00Z"
+  }
+]

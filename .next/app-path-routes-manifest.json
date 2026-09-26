@@ -1,0 +1,14 @@
+{
+  "/_not-found": "/_not-found",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/page": "/",
+  "/user/page": "/user",
+  "/news/page": "/news",
+  "/chamber/page": "/chamber",
+  "/merchants/page": "/merchants",
+  "/[city]/page": "/[city]",
+  "/product/[id]/page": "/product/[id]",
+  "/merchant/[id]/page": "/merchant/[id]",
+  "/[city]/[category]/page": "/[city]/[category]",
+  "/[city]/[category]/[slug]/page": "/[city]/[category]/[slug]"
+}

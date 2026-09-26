@@ -35,7 +35,8 @@ async function getData() {
   };
 }
 
-export const dynamic = 'force-dynamic';
+// ISR: 预渲染 + 每 5 分钟后台刷新，避免每次请求都实时查 Supabase 导致首屏慢
+export const revalidate = 300;
 
 export default async function ChamberHomePage() {
   const { merchants, products, news } = await getData();

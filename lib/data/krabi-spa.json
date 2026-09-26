@@ -1,0 +1,107 @@
+[
+  {
+    "id": "krb-s01",
+    "slug": "rayavadee-spa-krabi",
+    "name": "Rayavadee Spa (Railay)",
+    "nameZh": "瑞亚维德度假村水疗·莱利",
+    "tagline": "Five-star spa reached only by longtail boat",
+    "taglineZh": "只能乘长尾船抵达的五星水疗",
+    "description": "Hidden between limestone cliffs and three beaches on the Railay peninsula, Rayavadee is one of Thailand's most spectacular resorts. Its spa offers open-air treatment pavilions and signature rituals surrounded by jungle and sea views.",
+    "descriptionZh": "Rayavadee 隐于莱利半岛的石灰岩峭壁与三片海滩之间，是泰国最壮观的度假村之一。水疗中心设露天理疗亭，在丛林与海景环绕中享受招牌疗程。",
+    "category": "spa",
+    "city": "krabi",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$$",
+    "startingPrice": 3800,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 1400,
+    "services": [
+      { "id": "krb-s01-s1", "name": "Rayavadee Signature Ritual", "nameZh": "瑞亚维德招牌仪式", "duration": 150, "price": 6500, "currency": "THB" },
+      { "id": "krb-s01-s2", "name": "Tropical Wellness Package", "nameZh": "热带养生套餐", "duration": 120, "price": 4800, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0118,
+      "lng": 98.8383,
+      "address": "214 Moo 2, Tambon Ao Nang, Amphoe Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 620 620" },
+    "openingHours": { "open": "09:00", "close": "21:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["luxury", "railay", "open-air pavilion", "boat access only"],
+    "createdAt": "2024-01-20T00:00:00Z"
+  },
+  {
+    "id": "krb-s02",
+    "slug": "devarana-spa-krabi",
+    "name": "Devarana Spa at Dusit Thani Krabi",
+    "nameZh": "蒂瓦娜水疗·甲米都喜天丽",
+    "tagline": "Garden-spa bliss at the Dusit Thani Beach Resort",
+    "taglineZh": "都喜天丽海滨度假村的花园水疗",
+    "description": "Devarana Spa, the award-winning Dusit spa brand, sits within lush gardens at Dusit Thani Krabi Beach Resort in Klong Muang. Thai-inspired treatments and serene couple suites make the trip up the coast well worthwhile.",
+    "descriptionZh": "蒂瓦娜是都喜集团旗下屡获殊荣的水疗品牌，坐落于甲米空穆海滩都喜天丽度假村的花园之中。泰式灵感疗程与宁静双人套房，值得专程前往。",
+    "category": "spa",
+    "city": "krabi",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 2400,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 900,
+    "services": [
+      { "id": "krb-s02-s1", "name": "Devarana Signature Journey", "nameZh": "蒂瓦娜招牌之旅", "duration": 150, "price": 4200, "currency": "THB" },
+      { "id": "krb-s02-s2", "name": "Couples Garden Retreat", "nameZh": "双人花园假期套餐", "duration": 120, "price": 5600, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0763,
+      "lng": 98.7886,
+      "address": "90 Moo 3, Klong Muang Beach, Nong Thale, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 625 888" },
+    "openingHours": { "open": "09:00", "close": "21:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["award-winning", "garden spa", "couples", "klong muang"],
+    "createdAt": "2024-02-05T00:00:00Z"
+  },
+  {
+    "id": "krb-s03",
+    "slug": "centara-grand-spa-krabi",
+    "name": "SPA Cenvaree at Centara Grand Krabi",
+    "nameZh": "圣塔拉水疗·甲米圣塔拉大酒店",
+    "tagline": "Beachfront spa on the secluded Pai Plong Bay",
+    "taglineZh": "僻静攀龙湾海滨水疗",
+    "description": "SPA Cenvaree at Centara Grand Beach Resort & Villas Krabi overlooks the secluded Pai Plong bay, accessible only by boat or jungle footpath. Treatments blend Thai traditions with contemporary techniques in an unforgettable coastal setting.",
+    "descriptionZh": "SPA Cenvaree 位于甲米圣塔拉大酒店，俯瞰僻静的攀龙湾——只能乘船或穿越丛林小径抵达。在无与伦比的海岸环境中，泰式传统与现代技法完美融合。",
+    "category": "spa",
+    "city": "krabi",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 2600,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 800,
+    "services": [
+      { "id": "krb-s03-s1", "name": "Cenvaree Signature Massage", "nameZh": "圣塔拉招牌按摩", "duration": 120, "price": 3800, "currency": "THB" },
+      { "id": "krb-s03-s2", "name": "Beachfront Couples Package", "nameZh": "海滨双人套餐", "duration": 120, "price": 6200, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0225,
+      "lng": 98.8319,
+      "address": "496 Moo 5, Pai Plong Bay, Ao Nang, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 604 555" },
+    "openingHours": { "open": "09:00", "close": "20:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["beachfront", "secluded bay", "resort spa", "pai plong"],
+    "createdAt": "2024-02-20T00:00:00Z"
+  }
+]

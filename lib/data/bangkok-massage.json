@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bkk-m01",
+    "slug": "health-land-spa-bangkok",
+    "name": "Health Land Spa & Massage (Ekkamai)",
+    "nameZh": "健康之地水疗·曼谷伊卡迈店",
+    "tagline": "Bangkok's legendary value-for-money Thai massage",
+    "taglineZh": "曼谷传奇高性价比泰式按摩",
+    "description": "Health Land is a Bangkok institution offering hotel-quality massage facilities at local prices. The Ekkamai flagship spans a tranquil garden compound with hundreds of therapists trained in traditional Thai massage, aromatherapy and foot reflexology.",
+    "descriptionZh": "Health Land 是曼谷按摩界的传奇品牌，以本地价格享受酒店级设施。伊卡迈总店坐拥静谧庭院，数百位治疗师专精泰式传统按摩、香薰与足底疗法。",
+    "category": "massage",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 650,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 12500,
+    "services": [
+      { "id": "bkk-m01-s1", "name": "Thai Traditional Massage (120 min)", "nameZh": "泰式传统按摩（120分钟）", "duration": 120, "price": 650, "currency": "THB" },
+      { "id": "bkk-m01-s2", "name": "Aromatherapy Massage", "nameZh": "香薰精油按摩", "duration": 90, "price": 850, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7299,
+      "lng": 100.5685,
+      "address": "55/5 Sukhumvit 71, Phra Khanong Nuea, Watthana, Bangkok 10110"
+    },
+    "contact": { "phone": "+66 2 381 1111" },
+    "openingHours": { "open": "09:00", "close": "23:30", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["traditional thai", "great value", "foot massage", "ekkamai"],
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": "bkk-m02",
+    "slug": "wat-pho-thai-massage-school",
+    "name": "Wat Pho Thai Traditional Massage School",
+    "nameZh": "卧佛寺泰式按摩学校",
+    "tagline": "Learn and unwind where Thai massage was born",
+    "taglineZh": "泰式按摩的发源地，边学边享受",
+    "description": "Located within the grounds of Wat Pho (Temple of the Reclining Buddha), this is the birthplace of traditional Thai massage. Students train here from around the world, and visitors can book authentic treatments at very reasonable prices.",
+    "descriptionZh": "位于卧佛寺内，是泰式传统按摩的发源地。世界各地的学员专程来此进修，游客也能以非常实惠的价格享受最正宗的泰式按摩。",
+    "category": "massage",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 480,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 9800,
+    "services": [
+      { "id": "bkk-m02-s1", "name": "Traditional Thai Massage (60 min)", "nameZh": "泰式传统按摩（60分钟）", "duration": 60, "price": 480, "currency": "THB" },
+      { "id": "bkk-m02-s2", "name": "Thai Foot Massage", "nameZh": "泰式足底按摩", "duration": 45, "price": 400, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7465,
+      "lng": 100.4925,
+      "address": "2 Sanam Chai Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok 10200"
+    },
+    "contact": { "phone": "+66 2 622 3550" },
+    "openingHours": { "open": "08:00", "close": "18:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["heritage", "traditional thai", "temple", "old city"],
+    "createdAt": "2024-02-01T00:00:00Z"
+  },
+  {
+    "id": "bkk-m03",
+    "slug": "ruen-nuad-massage-studio",
+    "name": "Ruen Nuad Massage Studio",
+    "nameZh": "鲁努德按摩馆·曼谷",
+    "tagline": "A hidden teak-house gem on Silom's Convent Road",
+    "taglineZh": "是隆运河路柚木老宅里的隐藏宝藏",
+    "description": "Tucked inside a restored teak house near Convent Road, Ruen Nuad offers superb traditional Thai massage in an atmospheric heritage setting. Consistently rated among Bangkok's best-value quality massages — book ahead.",
+    "descriptionZh": "Ruen Nuad 隐藏在是隆运河路附近一栋修复的柚木老宅中，在充满历史氛围的环境里提供一流泰式按摩。常年被评为曼谷性价比最高的优质按摩馆，建议提前预约。",
+    "category": "massage",
+    "city": "bangkok",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 550,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 3100,
+    "services": [
+      { "id": "bkk-m03-s1", "name": "Nuad Thai Traditional (90 min)", "nameZh": "传统泰式按摩（90分钟）", "duration": 90, "price": 700, "currency": "THB" },
+      { "id": "bkk-m03-s2", "name": "Foot Massage (60 min)", "nameZh": "足底按摩（60分钟）", "duration": 60, "price": 550, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7295,
+      "lng": 100.5327,
+      "address": "42 Convent Rd, Silom, Bang Rak, Bangkok 10500"
+    },
+    "contact": { "phone": "+66 2 632 2662" },
+    "openingHours": { "open": "10:00", "close": "21:00", "days": "Mon–Sat" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["teak house", "heritage", "silom", "book ahead"],
+    "createdAt": "2024-02-15T00:00:00Z"
+  }
+]

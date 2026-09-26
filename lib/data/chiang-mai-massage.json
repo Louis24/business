@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cnx-m01",
+    "slug": "lila-thai-massage-chiang-mai",
+    "name": "Lila Thai Massage (Thapae)",
+    "nameZh": "莉拉泰式按摩·清迈塔佩店",
+    "tagline": "Exceptional massages by ex-prisoners' rehabilitation graduates",
+    "taglineZh": "由更生计划学员提供的高水准泰式按摩",
+    "description": "Founded by former Women's Massage Center director Nom, Lila Thai Massage trains and employs women from the prison rehabilitation program. Professional technique, spotless rooms and honest prices have made it a Chiang Mai favourite across five branches.",
+    "descriptionZh": "Lila Thai Massage 由女子按摩中心前负责人 Nom 创办，培训并雇用监狱更生计划的女性学员。手法专业、包间洁净、价格公道，五家分店使它成为清迈人气之选。",
+    "category": "massage",
+    "city": "chiang-mai",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 250,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 4600,
+    "services": [
+      { "id": "cnx-m01-s1", "name": "Lila Signature Thai Massage (90 min)", "nameZh": "莉拉招牌泰式按摩（90分钟）", "duration": 90, "price": 400, "currency": "THB" },
+      { "id": "cnx-m01-s2", "name": "Aroma Oil Massage", "nameZh": "香薰精油按摩", "duration": 90, "price": 550, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7883,
+      "lng": 99.5009,
+      "address": "19/1 Moon Muang Rd, Phra Sing, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 53 449 222" },
+    "openingHours": { "open": "09:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["social enterprise", "traditional thai", "great value", "old city"],
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": "cnx-m02",
+    "slug": "womens-massage-center-chiang-mai",
+    "name": "Women's Massage Center by Ex-Prisoners",
+    "nameZh": "更生女子按摩中心·清迈",
+    "tagline": "The original social-enterprise massage house",
+    "taglineZh": "社会企业按摩馆的鼻祖",
+    "description": "This pioneering center has helped hundreds of formerly incarcerated women rebuild their lives through professional massage training. The original branch near Tha Phae Gate offers honest, skilled traditional Thai massage in a modest, welcoming setting.",
+    "descriptionZh": "这一开创性中心通过专业按摩培训帮助数百名曾经服刑的女性重建生活。塔佩门附近的创始店环境朴素温馨，提供扎实地道、手法娴熟的泰式传统按摩。",
+    "category": "massage",
+    "city": "chiang-mai",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 200,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 2800,
+    "services": [
+      { "id": "cnx-m02-s1", "name": "Traditional Thai Massage (60 min)", "nameZh": "泰式传统按摩（60分钟）", "duration": 60, "price": 250, "currency": "THB" },
+      { "id": "cnx-m02-s2", "name": "Foot Massage (60 min)", "nameZh": "足底按摩（60分钟）", "duration": 60, "price": 250, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7855,
+      "lng": 99.4958,
+      "address": "Sri Phum Rd, Si Phum, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 53 274 838" },
+    "openingHours": { "open": "08:00", "close": "21:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["social enterprise", "budget friendly", "traditional thai", "old city"],
+    "createdAt": "2024-02-01T00:00:00Z"
+  },
+  {
+    "id": "cnx-m03",
+    "slug": "lets-relax-spa-chiang-mai",
+    "name": "Let's Relax Spa Chiang Mai",
+    "nameZh": "乐放松水疗·清迈店",
+    "tagline": "Trusted national chain in the Old City",
+    "taglineZh": "老城区内的国民连锁水疗",
+    "description": "The Chiang Mai branch of Thailand's favourite spa chain occupies a converted heritage building near Tha Phae Gate. Enjoy the brand's full menu — Thai massage, herbal compress and signature packages — with online booking and consistent quality.",
+    "descriptionZh": "泰国人气水疗连锁的清迈分店坐落于塔佩门附近一栋改建的历史建筑内。提供全套泰式按摩、草药球与招牌套餐，支持在线预约，品质稳定。",
+    "category": "massage",
+    "city": "chiang-mai",
+    "tier": "standard",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 450,
+    "currency": "THB",
+    "rating": 4.5,
+    "reviewCount": 3100,
+    "services": [
+      { "id": "cnx-m03-s1", "name": "Thai Massage (45 min)", "nameZh": "泰式按摩（45分钟）", "duration": 45, "price": 450, "currency": "THB" },
+      { "id": "cnx-m03-s2", "name": "Herbal Compress Massage", "nameZh": "草药球按摩", "duration": 90, "price": 950, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7898,
+      "lng": 99.4977,
+      "address": "27/4 Moon Muang Rd, Phra Sing, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 53 208 311" },
+    "openingHours": { "open": "09:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["chain spa", "heritage building", "online booking", "old city"],
+    "createdAt": "2024-02-15T00:00:00Z"
+  }
+]

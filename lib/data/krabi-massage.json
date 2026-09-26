@@ -1,0 +1,107 @@
+[
+  {
+    "id": "krb-m01",
+    "slug": "lets-relax-spa-krabi-aonang",
+    "name": "Let's Relax Spa Krabi (Ao Nang)",
+    "nameZh": "乐放松水疗·甲米奥南海滩店",
+    "tagline": "Trusted Thai spa chain steps from Ao Nang Beach",
+    "taglineZh": "泰国知名连锁水疗，奥南海滩近在咫尺",
+    "description": "The Krabi branch of Thailand's favourite spa chain brings its full menu of Thai massage, aromatherapy and signature packages to Ao Nang. Consistent, professional service with online booking — perfect after a day of island hopping.",
+    "descriptionZh": "泰国人气连锁水疗的甲米分店将全套泰式按摩、香薰理疗与招牌套餐带到奥南。服务专业稳定、支持在线预约，是跳岛一日游后的完美放松之选。",
+    "category": "massage",
+    "city": "krabi",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 450,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 4100,
+    "services": [
+      { "id": "krb-m01-s1", "name": "Thai Traditional Massage", "nameZh": "泰式传统按摩", "duration": 45, "price": 450, "currency": "THB" },
+      { "id": "krb-m01-s2", "name": "Let's Relax Signature Package", "nameZh": "乐放松招牌套餐", "duration": 120, "price": 1750, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0320,
+      "lng": 98.8290,
+      "address": "16/6 Moo 2, Ao Nang, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 695 533" },
+    "openingHours": { "open": "09:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["chain spa", "traditional thai", "ao nang", "online booking"],
+    "createdAt": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": "krb-m02",
+    "slug": "royal-palm-spa-krabi",
+    "name": "Royal Palm Spa Krabi (Ao Nang)",
+    "nameZh": "皇家棕榈水疗·甲米奥南",
+    "tagline": "Top-rated Thai massage, head spa and hot stone therapy",
+    "taglineZh": "高评分泰式按摩、头部水疗与热石理疗",
+    "description": "Royal Palm Spa is one of Ao Nang's top-rated massage houses on TripAdvisor, offering traditional Thai massage, aromatherapy, hot stone treatments and a distinctive Japanese-style head spa in clean, comfortable surroundings.",
+    "descriptionZh": "Royal Palm Spa 是奥南 TripAdvisor 评分最高的按摩馆之一，提供泰式传统按摩、香薰理疗、热石疗法，以及特色的日式头部水疗，环境干净舒适。",
+    "category": "massage",
+    "city": "krabi",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 400,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 1700,
+    "services": [
+      { "id": "krb-m02-s1", "name": "Thai Massage (60 min)", "nameZh": "泰式按摩（60分钟）", "duration": 60, "price": 400, "currency": "THB" },
+      { "id": "krb-m02-s2", "name": "Head Spa Treatment", "nameZh": "头部水疗", "duration": 60, "price": 700, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0339,
+      "lng": 98.8244,
+      "address": "Moo 2, Ao Nang, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 93 646 4466" },
+    "openingHours": { "open": "10:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["head spa", "hot stone", "tripadvisor favourite", "ao nang"],
+    "createdAt": "2024-02-01T00:00:00Z"
+  },
+  {
+    "id": "krb-m03",
+    "slug": "radarom-spa-krabi",
+    "name": "Radarom Spa",
+    "nameZh": "拉达隆水疗·甲米奥南",
+    "tagline": "Local-owned Thai spa with a loyal following",
+    "taglineZh": "本地经营的泰式水疗，回头客众多",
+    "description": "Managed by a local Thai owner, Radarom Spa has built a loyal following in Ao Nang with attentive traditional Thai massage, herbal treatments and scrubs at fair prices. Book ahead during high season — it fills up fast.",
+    "descriptionZh": "Radarom Spa 由本地泰国老板经营，以细致的泰式传统按摩、草本理疗与磨砂护理和公道的价格在奥南赢得大量回头客。旺季建议提前预约，常常满客。",
+    "category": "massage",
+    "city": "krabi",
+    "tier": "standard",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 300,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 1200,
+    "services": [
+      { "id": "krb-m03-s1", "name": "Traditional Thai Massage (60 min)", "nameZh": "泰式传统按摩（60分钟）", "duration": 60, "price": 300, "currency": "THB" },
+      { "id": "krb-m03-s2", "name": "Herbal Ball & Oil Massage", "nameZh": "草药球+精油按摩", "duration": 90, "price": 700, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0304,
+      "lng": 98.8346,
+      "address": "Moo 2, Ao Nang, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 660 466" },
+    "openingHours": { "open": "09:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": false,
+    "tags": ["local owned", "fair prices", "herbal treatment", "ao nang"],
+    "createdAt": "2024-02-15T00:00:00Z"
+  }
+]

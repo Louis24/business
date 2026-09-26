@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cnx-r01",
+    "slug": "tong-tem-toh-chiang-mai",
+    "name": "Tong Tem Toh",
+    "nameZh": "通当陶·清迈",
+    "tagline": "The definitive northern Thai restaurant on Nimman",
+    "taglineZh": "宁曼路上的泰北菜殿堂",
+    "description": "Tong Tem Toh is where locals and visitors go for authentic Lanna cuisine: khao soi, nam prik num with crudités, grilled pork neck and sai ua northern sausage. The sprawling garden compound on Nimman makes it perfect for groups.",
+    "descriptionZh": "通当陶是本地人和游客品尝地道兰纳菜的首选：咖喱面、青辣椒蘸酱配鲜蔬、炭烤猪颈肉与泰北香肠。宁曼路上偌大的庭院式餐厅非常适合聚餐。",
+    "category": "restaurants",
+    "city": "chiang-mai",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 60,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 7400,
+    "services": [
+      { "id": "cnx-r01-s1", "name": "Khao Soi Gai (Northern Curry Noodles)", "nameZh": "泰北咖喱鸡面", "duration": 20, "price": 120, "currency": "THB" },
+      { "id": "cnx-r01-s2", "name": "Grilled Pork Neck (Kor Moo Yang)", "nameZh": "炭烤猪颈肉", "duration": 25, "price": 180, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7985,
+      "lng": 98.9626,
+      "address": "11 Nimmanhaemin Rd Soi 13, Suthep, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 53 894 380" },
+    "openingHours": { "open": "11:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["northern thai", "khao soi", "nimman", "groups"],
+    "createdAt": "2024-05-01T00:00:00Z"
+  },
+  {
+    "id": "cnx-r02",
+    "slug": "khao-soi-khun-yai-chiang-mai",
+    "name": "Khao Soi Khun Yai",
+    "nameZh": "坤雅咖喱面·清迈",
+    "tagline": "The city's most revered khao soi, near Suan Dok",
+    "taglineZh": "松德寺旁最受推崇的清迈咖喱面",
+    "description": "Run by the same family for decades, Khao Soi Khun Yai serves what many consider Chiang Mai's finest khao soi — rich coconut curry broth, tender chicken and perfectly crisp noodles. Arrive before noon; it sells out daily.",
+    "descriptionZh": "坤雅咖喱面由同一家族经营数十年，被公认为清迈最好吃的咖喱面——浓郁椰浆咖喱汤底、嫩滑鸡肉与恰到好处的酥脆面条。每天中午前售罄，宜早到。",
+    "category": "restaurants",
+    "city": "chiang-mai",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 50,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 3900,
+    "services": [
+      { "id": "cnx-r02-s1", "name": "Khao Soi Chicken (signature)", "nameZh": "招牌鸡咖喱面", "duration": 15, "price": 60, "currency": "THB" },
+      { "id": "cnx-r02-s2", "name": "Khao Soi Beef", "nameZh": "牛肉咖喱面", "duration": 15, "price": 70, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7877,
+      "lng": 98.9760,
+      "address": "Sri Phum Rd, Si Phum, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 81 884 9489" },
+    "openingHours": { "open": "08:00", "close": "13:00", "days": "Mon–Sat" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["khao soi", "local legend", "sells out", "budget"],
+    "createdAt": "2024-05-10T00:00:00Z"
+  },
+  {
+    "id": "cnx-r03",
+    "slug": "dash-restaurant-chiang-mai",
+    "name": "Dash! Restaurant & Bar",
+    "nameZh": "Dash 餐厅酒吧·清迈",
+    "tagline": "Teak-house dining in a fairy-lit garden",
+    "taglineZh": "柚木老宅配灯光花园的浪漫晚餐",
+    "description": "Dash! serves refined northern and central Thai dishes in a magical lantern-lit garden around a century-old teak house near Tha Phae Gate. The grilled river fish, spring rolls and cocktails make it a favourite romantic dinner spot.",
+    "descriptionZh": "Dash! 餐厅位于塔佩门附近一栋百年柚木老宅中，灯笼点点的花园氛围浪漫迷人。烤河鱼、泰式春卷与创意鸡尾酒使其成为最受欢迎的浪漫晚餐之选。",
+    "category": "restaurants",
+    "city": "chiang-mai",
+    "tier": "standard",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 120,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 2400,
+    "services": [
+      { "id": "cnx-r03-s1", "name": "Grilled River Fish with Herbs", "nameZh": "香草烤河鱼", "duration": 30, "price": 320, "currency": "THB" },
+      { "id": "cnx-r03-s2", "name": "Northern Thai Sharing Set", "nameZh": "泰北分享套餐", "duration": 60, "price": 690, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7893,
+      "lng": 99.4981,
+      "address": "Moon Muang Rd Soi 7, Phra Sing, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 53 449 004" },
+    "openingHours": { "open": "11:00", "close": "23:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": false,
+    "tags": ["garden dining", "romantic", "teak house", "cocktails"],
+    "createdAt": "2024-05-20T00:00:00Z"
+  }
+]

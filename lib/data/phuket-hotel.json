@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pkt-h01",
+    "slug": "trisara-phuket",
+    "name": "Trisara Phuket",
+    "nameZh": "翠萨兰度假村·普吉",
+    "tagline": "All-pool-villa luxury on a private northwest coast bay",
+    "taglineZh": "普吉西北海岸私密海湾的全泳池别墅奢华度假村",
+    "description": "Trisara is Phuket's most exclusive all-villa resort, tucked into a private bay on the island's quiet northwest coast. Every villa has its own infinity pool, and the resort is famed for Michelin-listed restaurant PRU and flawless private service.",
+    "descriptionZh": "Trisara 是普吉最顶级的全别墅度假村，隐匿于岛上安静的西北海岸私密海湾。每栋别墅均配私人无边泳池，米其林入选餐厅 PRU 与无微不至的私人服务闻名遐迩。",
+    "category": "hotel",
+    "city": "phuket",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$$",
+    "startingPrice": 18000,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 920,
+    "services": [
+      { "id": "pkt-h01-s1", "name": "Ocean View Pool Villa · Nightly Rate", "nameZh": "海景泳池别墅·每晚", "duration": 1, "price": 26000, "currency": "THB" },
+      { "id": "pkt-h01-s2", "name": "Garden Pool Villa · Nightly Rate", "nameZh": "花园泳池别墅·每晚", "duration": 1, "price": 18000, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0425,
+      "lng": 98.2865,
+      "address": "60/1 Moo 6, Srisoonthorn Rd, Choeng Thale, Thalang, Phuket 83110"
+    },
+    "contact": { "phone": "+66 76 310 360" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["luxury resort", "private pool", "michelin dining", "beachfront"],
+    "createdAt": "2024-04-01T00:00:00Z"
+  },
+  {
+    "id": "pkt-h02",
+    "slug": "amari-phuket-patong",
+    "name": "Amari Phuket",
+    "nameZh": "阿玛瑞度假酒店·普吉",
+    "tagline": "Beachfront resort next to Patong, yet blissfully private",
+    "taglineZh": "紧邻巴东却独享私密的海滨度假酒店",
+    "description": "Amari Phuket occupies its own headland between Patong Beach and the quieter south, offering spacious rooms, hillside villas and a private beach club. Guests enjoy easy access to Patong nightlife while returning to a tranquil resort setting.",
+    "descriptionZh": "Amari Phuket 坐落于巴东海滩旁的独立海岬，拥有宽敞客房、山坡别墅与私人海滩俱乐部。步行即可感受巴东夜生活，回到酒店又能尽享静谧。",
+    "category": "hotel",
+    "city": "phuket",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 4500,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 5600,
+    "services": [
+      { "id": "pkt-h02-s1", "name": "Superior Room · Nightly Rate", "nameZh": "高级客房·每晚", "duration": 1, "price": 4500, "currency": "THB" },
+      { "id": "pkt-h02-s2", "name": "Ocean Wing Pool Access Room · Nightly Rate", "nameZh": "海洋翼泳池直通房·每晚", "duration": 1, "price": 7800, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 7.8868,
+      "lng": 98.2926,
+      "address": "2 Muang Pattana Rd, Patong, Kathu, Phuket 83150"
+    },
+    "contact": { "phone": "+66 76 600 500" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["beachfront", "family friendly", "private beach club", "patong"],
+    "createdAt": "2024-04-10T00:00:00Z"
+  },
+  {
+    "id": "pkt-h03",
+    "slug": "the-nai-harn-phuket",
+    "name": "The Nai Harn",
+    "nameZh": "奈涵度假酒店·普吉",
+    "tagline": "Relaxed beachfront elegance by Nai Harn Beach",
+    "taglineZh": "奈涵海滩旁的轻松海滨雅居",
+    "description": "The Nai Harn is a refined beachfront hotel directly on one of Phuket's most beautiful beaches in the island's south. Low-rise architecture, a large lagoon-style pool and several restaurants make it ideal for a quieter, family-friendly stay.",
+    "descriptionZh": "The Nai Harn 直接坐落于普吉岛南部最美海滩之一，低层建筑、大型礁湖泳池与多家餐厅，是追求安静亲子度假的理想之选。",
+    "category": "hotel",
+    "city": "phuket",
+    "tier": "standard",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 3800,
+    "currency": "THB",
+    "rating": 4.5,
+    "reviewCount": 3100,
+    "services": [
+      { "id": "pkt-h03-s1", "name": "Deluxe Sea View Room · Nightly Rate", "nameZh": "豪华海景房·每晚", "duration": 1, "price": 5600, "currency": "THB" },
+      { "id": "pkt-h03-s2", "name": "Superior Garden View Room · Nightly Rate", "nameZh": "高级园景房·每晚", "duration": 1, "price": 3800, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 7.5489,
+      "lng": 98.2936,
+      "address": "16 Moo 1, Nai Harn, Phuket 83130"
+    },
+    "contact": { "phone": "+66 76 443 200" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": false,
+    "tags": ["beachfront", "quiet area", "family friendly", "nai harn beach"],
+    "createdAt": "2024-05-01T00:00:00Z"
+  }
+]

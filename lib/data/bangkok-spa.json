@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bkk-s01",
+    "slug": "lets-relax-spa-bangkok-sukhumvit",
+    "name": "Let's Relax Spa Bangkok (Sukhumvit 39)",
+    "nameZh": "乐放松水疗·曼谷素坤逸39巷",
+    "tagline": "Award-winning Thai spa chain in the heart of Sukhumvit",
+    "taglineZh": "获奖连锁水疗，素坤逸核心地段",
+    "description": "Let's Relax Spa's Sukhumvit 39 branch offers the brand's full menu of Thai massage, aromatherapy and signature packages in a sleek urban setting. Ideal after a day of shopping or sightseeing, with online booking and multiple branches citywide.",
+    "descriptionZh": "Let's Relax Spa 素坤逸39巷店提供全套泰式按摩、香薰理疗与招牌套餐，都市感十足。逛街观光后放松的绝佳选择，支持在线预约，全城多分店。",
+    "category": "spa",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 750,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 8700,
+    "services": [
+      { "id": "bkk-s01-s1", "name": "Let's Relax Signature Package", "nameZh": "乐放松招牌套餐", "duration": 120, "price": 1850, "currency": "THB" },
+      { "id": "bkk-s01-s2", "name": "Thai Massage with Herbal Compress", "nameZh": "泰式草药球按摩", "duration": 90, "price": 1250, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7313,
+      "lng": 100.5698,
+      "address": "26/7 Sukhumvit 39, Khlong Tan Nuea, Watthana, Bangkok 10110"
+    },
+    "contact": { "phone": "+66 2 079 8999" },
+    "openingHours": { "open": "09:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["chain spa", "sukhumvit", "signature package", "online booking"],
+    "createdAt": "2024-01-20T00:00:00Z"
+  },
+  {
+    "id": "bkk-s02",
+    "slug": "oasis-spa-bangkok-sukhumvit-31",
+    "name": "Oasis Spa Bangkok (Sukhumvit 31)",
+    "nameZh": "绿洲水疗·曼谷素坤逸31巷",
+    "tagline": "A secret garden spa in the middle of the city",
+    "taglineZh": "都市中心的秘密花园水疗",
+    "description": "Hidden behind lush greenery off Sukhumvit 31, Oasis Spa Bangkok feels a world away from the city. Private treatment rooms with open-air baths, couples' suites and skilled therapists make it one of the capital's most romantic spa escapes.",
+    "descriptionZh": "绿洲水疗隐于素坤逸31巷的葱郁绿植之后，宛如世外桃源。带露天浴池的私人理疗室、双人套房与娴熟手法，是曼谷最浪漫的水疗秘境之一。",
+    "category": "spa",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 2200,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 3900,
+    "services": [
+      { "id": "bkk-s02-s1", "name": "Oasis Signature Escape", "nameZh": "绿洲招牌之旅", "duration": 150, "price": 3500, "currency": "THB" },
+      { "id": "bkk-s02-s2", "name": "Couples Romance Package", "nameZh": "双人浪漫套餐", "duration": 120, "price": 5200, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7367,
+      "lng": 100.5693,
+      "address": "31/1 Sukhumvit 31, Khlong Tan Nuea, Watthana, Bangkok 10110"
+    },
+    "contact": { "phone": "+66 2 662 1818" },
+    "openingHours": { "open": "10:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["secret garden", "couples", "private room", "sukhumvit"],
+    "createdAt": "2024-02-05T00:00:00Z"
+  },
+  {
+    "id": "bkk-s03",
+    "slug": "divana-scentuara-spa-bangkok",
+    "name": "Divana Scentuara Spa",
+    "nameZh": "迪瓦娜香氛水疗·曼谷",
+    "tagline": "Colonial-era mansion spa near the Grand Palace",
+    "taglineZh": "大皇宫附近殖民风老宅水疗",
+    "description": "Set in a restored colonial mansion surrounded by gardens in old Rattanakosin, Divana Scentuara offers fragrant flower-themed treatments, from petal baths to aromatherapy rituals, just minutes from the Grand Palace and Khao San Road.",
+    "descriptionZh": "Divana Scentuara 坐落于老城区一栋殖民风格老宅中，花园环绕。主打芬芳花卉主题疗程——花瓣浴、香薰仪式等，距大皇宫与考山路仅几分钟车程。",
+    "category": "spa",
+    "city": "bangkok",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 1900,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 2200,
+    "services": [
+      { "id": "bkk-s03-s1", "name": "Scentuara Flower Ritual", "nameZh": "香氛花卉仪式", "duration": 150, "price": 3200, "currency": "THB" },
+      { "id": "bkk-s03-s2", "name": "Aroma Oil Massage & Petal Bath", "nameZh": "香薰精油按摩+花瓣浴", "duration": 105, "price": 2400, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7589,
+      "lng": 100.5019,
+      "address": "36/1 Samsen Rd, Wat Sommanat, Pom Prap Sattru Phai, Bangkok 10100"
+    },
+    "contact": { "phone": "+66 2 281 8836" },
+    "openingHours": { "open": "09:00", "close": "21:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["flower ritual", "colonial mansion", "old city", "petal bath"],
+    "createdAt": "2024-02-20T00:00:00Z"
+  }
+]

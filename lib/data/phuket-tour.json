@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pkt-t01",
+    "slug": "simba-sea-trips-phuket",
+    "name": "Simba Sea Trips",
+    "nameZh": "辛巴海上之旅·普吉",
+    "tagline": "The original early-bird Phi Phi speedboat tour",
+    "taglineZh": "皮皮岛早鸟快艇一日游的开创者",
+    "description": "Simba Sea Trips pioneered the 'early bird' strategy to beat the crowds at Phi Phi and Maya Bay. Small groups depart before 8am by speedboat with an English/Chinese-speaking crew, snorkelling gear and a delicious onboard lunch included.",
+    "descriptionZh": "Simba Sea Trips 首创「早鸟」行程，赶在人潮前抵达皮皮岛与玛雅湾。快艇小团 8 点前出发，配中英文船员、浮潜装备与船上美味午餐。",
+    "category": "tour",
+    "city": "phuket",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 3500,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 5800,
+    "services": [
+      { "id": "pkt-t01-s1", "name": "Phi Phi Early Bird Tour", "nameZh": "皮皮岛早鸟一日游", "duration": 540, "price": 3600, "currency": "THB" },
+      { "id": "pkt-t01-s2", "name": "Phang Nga Bay Early Bird Tour", "nameZh": "攀牙湾早鸟一日游", "duration": 480, "price": 3500, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0794,
+      "lng": 98.4077,
+      "address": "Ao Po Grand Marina, 88/1 Moo 4, Pa Klok, Thalang, Phuket 83110"
+    },
+    "contact": { "phone": "+66 76 272 962" },
+    "openingHours": { "open": "07:00", "close": "18:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["phi phi", "maya bay", "speedboat", "snorkelling", "small group"],
+    "createdAt": "2024-06-10T00:00:00Z"
+  },
+  {
+    "id": "pkt-t02",
+    "slug": "john-grays-hong-by-starlight",
+    "name": "John Gray's Hong by Starlight",
+    "nameZh": "约翰·格雷星光海上皮划艇",
+    "tagline": "Sea cave kayaking in Phang Nga Bay, ending under the stars",
+    "taglineZh": "攀牙湾海蚀洞皮划艇，星光下的难忘一天",
+    "description": "John Gray's Sea Canoe is the legendary Phang Nga Bay eco-tour. Paddle inflatable sea kayaks through hidden hongs (collapsed cave lagoons), then return after dark to float handmade Loy Krathong candle boats under the stars.",
+    "descriptionZh": "John Gray 海上皮划艇是攀牙湾传奇生态之旅。划着双人充气皮划艇穿行隐秘的「Hong」塌陷洞湖，夜幕降临后在水面上放自制水灯，星光与萤火相伴。",
+    "category": "tour",
+    "city": "phuket",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 4200,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 3400,
+    "services": [
+      { "id": "pkt-t02-s1", "name": "Hong by Starlight Day Tour", "nameZh": "星光洞湖一日游", "duration": 660, "price": 4300, "currency": "THB" },
+      { "id": "pkt-t02-s2", "name": "Private Charter (up to 12 guests)", "nameZh": "私人包船（至多12人）", "duration": 660, "price": 46000, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0794,
+      "lng": 98.4077,
+      "address": "Ao Po Grand Marina, Pa Klok, Thalang, Phuket 83110"
+    },
+    "contact": { "phone": "+66 76 272 775" },
+    "openingHours": { "open": "10:00", "close": "21:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["sea kayaking", "phang nga bay", "eco tour", "loy krathong"],
+    "createdAt": "2024-06-15T00:00:00Z"
+  },
+  {
+    "id": "pkt-t03",
+    "slug": "sea-cave-canoe-phuket",
+    "name": "Sea Cave Canoe",
+    "nameZh": "海上溶洞皮划艇·攀牙湾",
+    "tagline": "Classic Phang Nga Bay canoe and James Bond Island day trip",
+    "taglineZh": "攀牙湾经典皮划艇与詹姆士邦德岛一日游",
+    "description": "Sea Cave Canoe runs the classic Phang Nga Bay day trip: sightseeing past James Bond Island, canoeing through limestone sea caves into hidden lagoons, plus a scenic sunset return cruise with fresh fruit and Thai snacks.",
+    "descriptionZh": "Sea Cave Canoe 运营攀牙湾经典一日游：游览詹姆士邦德岛，划皮划艇穿越石灰岩海蚀洞进入隐秘礁湖，日落时分伴着水果与泰式点心乘船返程。",
+    "category": "tour",
+    "city": "phuket",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 2600,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 2700,
+    "services": [
+      { "id": "pkt-t03-s1", "name": "Phang Nga Bay Canoe Day Trip", "nameZh": "攀牙湾皮划艇一日游", "duration": 540, "price": 2600, "currency": "THB" },
+      { "id": "pkt-t03-s2", "name": "James Bond Island & Canoe Combo", "nameZh": "邦德岛+皮划艇套票", "duration": 540, "price": 2900, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0794,
+      "lng": 98.4077,
+      "address": "Ao Po Grand Marina, Pa Klok, Thalang, Phuket 83110"
+    },
+    "contact": { "phone": "+66 76 272 776" },
+    "openingHours": { "open": "07:00", "close": "19:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["james bond island", "canoe", "phang nga bay", "day trip"],
+    "createdAt": "2024-06-20T00:00:00Z"
+  }
+]

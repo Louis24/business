@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pkt-r01",
+    "slug": "raya-restaurant-phuket",
+    "name": "Raya Restaurant",
+    "nameZh": "拉雅餐厅·普吉",
+    "tagline": "A century-old mansion serving classic Phuket cuisine",
+    "taglineZh": "百年老宅里的经典普吉菜",
+    "description": "Housed in a beautifully preserved Sino-Portuguese mansion in Phuket Town, Raya is the definitive address for authentic Phuket cuisine. Signature dishes include crab curry with morning glory, southern-style spicy salads and the famous braised pork belly.",
+    "descriptionZh": "Raya 位于普吉镇一栋保存完好的中葡风格百年老宅内，是品尝地道普吉菜的首选。招牌菜有咖喱炒蟹配空心菜、泰南酸辣沙拉与著名的卤猪肘。",
+    "category": "restaurants",
+    "city": "phuket",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 120,
+    "currency": "THB",
+    "rating": 4.5,
+    "reviewCount": 4200,
+    "services": [
+      { "id": "pkt-r01-s1", "name": "Crab Curry with Morning Glory", "nameZh": "咖喱炒蟹配空心菜", "duration": 30, "price": 480, "currency": "THB" },
+      { "id": "pkt-r01-s2", "name": "Braised Pork Belly Set", "nameZh": "卤猪肘套餐", "duration": 30, "price": 260, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 7.8888,
+      "lng": 98.3909,
+      "address": "9 Phoon Phol Rd, Talat Nuea, Mueang Phuket 83000"
+    },
+    "contact": { "phone": "+66 76 218 155" },
+    "openingHours": { "open": "10:30", "close": "21:30", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["phuket cuisine", "sino-portuguese", "heritage", "seafood"],
+    "createdAt": "2024-05-10T00:00:00Z"
+  },
+  {
+    "id": "pkt-r02",
+    "slug": "one-chun-phuket",
+    "name": "One Chun Restaurant",
+    "nameZh": "万春餐厅·普吉",
+    "tagline": "Michelin Guide southern Thai cooking in Old Town",
+    "taglineZh": "普吉老城区的米其林指南泰南菜",
+    "description": "One Chun serves refined southern Thai food in a restored shophouse in Phuket Old Town. Listed in the Michelin Guide, it is celebrated for its crab meat curry stir-fry, charcoal-grilled dishes and homestyle southern curries.",
+    "descriptionZh": "One Chun 位于普吉老城一栋翻新骑楼内，入选米其林指南，主打精致泰南菜。蟹肉咖喱炒蟹、炭火烧烤与家常泰南咖喱广受好评。",
+    "category": "restaurants",
+    "city": "phuket",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 140,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 2900,
+    "services": [
+      { "id": "pkt-r02-s1", "name": "Stir-Fried Crab with Curry Powder", "nameZh": "咖喱粉炒蟹", "duration": 30, "price": 550, "currency": "THB" },
+      { "id": "pkt-r02-s2", "name": "Southern Thai Set Dinner", "nameZh": "泰南风味套餐", "duration": 60, "price": 890, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 7.8826,
+      "lng": 98.3889,
+      "address": "48/1 Thepkrasattri Rd, Talat Nuea, Mueang Phuket 83000"
+    },
+    "contact": { "phone": "+66 76 581 284" },
+    "openingHours": { "open": "11:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["michelin guide", "southern thai", "old town", "crab"],
+    "createdAt": "2024-05-20T00:00:00Z"
+  },
+  {
+    "id": "pkt-r03",
+    "slug": "laem-hin-seafood-phuket",
+    "name": "Laem Hin Seafood",
+    "nameZh": "叻兴海鲜·普吉",
+    "tagline": "Local seafood pier famous for mok bali crab",
+    "taglineZh": "本地人喜爱的海鲜码头，招牌椰叶蒸蟹",
+    "description": "Perched on a pier in the east of the island, Laem Hin Seafood is where Phuket locals go for fresh seafood at honest prices. The must-try dish is 'mok bali' — crab steamed in banana leaf with curry paste — alongside grilled fish and tom yum.",
+    "descriptionZh": "Laem Hin 位于普吉岛东海岸的码头上，是本地人吃平价新鲜海鲜的首选。必点招牌「Mok Bali」——咖喱酱配蟹肉以香蕉叶包裹清蒸，另有炭烤鱼与冬阴功。",
+    "category": "restaurants",
+    "city": "phuket",
+    "tier": "standard",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 100,
+    "currency": "THB",
+    "rating": 4.4,
+    "reviewCount": 1600,
+    "services": [
+      { "id": "pkt-r03-s1", "name": "Mok Bali (Steamed Crab in Banana Leaf)", "nameZh": "椰叶咖喱蒸蟹", "duration": 40, "price": 450, "currency": "THB" },
+      { "id": "pkt-r03-s2", "name": "Tom Yum Goong", "nameZh": "冬阴功汤", "duration": 20, "price": 220, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 7.8654,
+      "lng": 98.4198,
+      "address": "69 Moo 7, Koh Kaew, Mueang Phuket 83200"
+    },
+    "contact": { "phone": "+66 76 239 407" },
+    "openingHours": { "open": "11:00", "close": "21:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": false,
+    "tags": ["seafood", "local favourite", "waterfront", "crab"],
+    "createdAt": "2024-06-01T00:00:00Z"
+  }
+]

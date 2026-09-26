@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cnx-t01",
+    "slug": "elephant-nature-park-chiang-mai",
+    "name": "Elephant Nature Park",
+    "nameZh": "大象自然公园·清迈",
+    "tagline": "Ethical elephant sanctuary — no riding, just kindness",
+    "taglineZh": "道德大象保育营，不骑乘、只陪伴",
+    "description": "Elephant Nature Park is Chiang Mai's most respected ethical elephant sanctuary. Rescued elephants roam freely while visitors feed, walk alongside and observe them bathing in the river. Day visits and week-long volunteer programs available.",
+    "descriptionZh": "大象自然公园是清迈最受尊敬的道德大象保育营。获救大象自由漫步，游客可以喂食、同行并在河边观看它们戏水。提供一日游与一周志愿者项目。",
+    "category": "tour",
+    "city": "chiang-mai",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 2500,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 8800,
+    "services": [
+      { "id": "cnx-t01-s1", "name": "Single Day Visit (includes lunch & transfer)", "nameZh": "一日游（含午餐与接送）", "duration": 480, "price": 2500, "currency": "THB" },
+      { "id": "cnx-t01-s2", "name": "SkyView Rescue Park Visit", "nameZh": "高空观景保育营参观", "duration": 480, "price": 2700, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 19.2258,
+      "lng": 98.9383,
+      "address": "1 Ratmakka Rd, Phra Sing, Mueang Chiang Mai (Office), Park in Mae Taeng"
+    },
+    "contact": { "phone": "+66 53 272 855" },
+    "openingHours": { "open": "07:00", "close": "17:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["ethical sanctuary", "no riding", "rescue elephants", "family friendly"],
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": "cnx-t02",
+    "slug": "flight-of-the-gibbon-chiang-mai",
+    "name": "Flight of the Gibbon Zipline",
+    "nameZh": "长臂猿飞行丛林滑索·清迈",
+    "tagline": "Soar through the rainforest canopy of Mae Kampong",
+    "taglineZh": "飞越湄康蓬热带雨林树冠",
+    "description": "Flight of the Gibbon operates Thailand's premier zipline circuit through pristine rainforest near Mae Kampong village. With 15+ platforms, sky bridges and abseils, plus round-trip hotel transfer from Chiang Mai, it's the region's top adrenaline day out.",
+    "descriptionZh": "长臂猿飞行在湄康蓬村落附近的原生态雨林中运营泰国顶级滑索线路。15+ 平台、空中吊桥与垂降，含清迈酒店往返接送，是本地区最刺激的一日行程。",
+    "category": "tour",
+    "city": "chiang-mai",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 2900,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 4200,
+    "services": [
+      { "id": "cnx-t02-s1", "name": "Full Zipline Experience (includes transfer & lunch)", "nameZh": "全程滑索体验（含接送与午餐）", "duration": 420, "price": 3100, "currency": "THB" },
+      { "id": "cnx-t02-s2", "name": "Zipline + Village Eco Tour Combo", "nameZh": "滑索+村落生态游套票", "duration": 540, "price": 3600, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.8667,
+      "lng": 99.3333,
+      "address": "Mae Kampong Village, Mae On District, Chiang Mai (pickup from Old City office)"
+    },
+    "contact": { "phone": "+66 53 010 660" },
+    "openingHours": { "open": "07:00", "close": "17:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["zipline", "rainforest", "adrenaline", "transfer included"],
+    "createdAt": "2024-06-10T00:00:00Z"
+  },
+  {
+    "id": "cnx-t03",
+    "slug": "thai-farm-cooking-school-chiang-mai",
+    "name": "Thai Farm Cooking School",
+    "nameZh": "泰式农场烹饪学校·清迈",
+    "tagline": "Market tour, organic farm and hands-on Thai cooking",
+    "taglineZh": "逛市场、下农场、亲手做地道泰餐",
+    "description": "Set on an organic farm south of the city, Thai Farm Cooking School is Chiang Mai's most-loved cooking class. The day starts at a local market before you pick herbs from the garden and cook five dishes under patient, friendly instructors.",
+    "descriptionZh": "泰式农场烹饪学校位于城南的有机农场，是清迈人气最高的烹饪课。行程从逛本地市场开始，随后在园中采摘香草，在耐心友善的老师指导下亲手制作五道泰餐。",
+    "category": "tour",
+    "city": "chiang-mai",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 1200,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 5600,
+    "services": [
+      { "id": "cnx-t03-s1", "name": "Full-Day Cooking Course (market tour + 5 dishes)", "nameZh": "全天烹饪课（含市场导览+五道菜）", "duration": 360, "price": 1500, "currency": "THB" },
+      { "id": "cnx-t03-s2", "name": "Half-Day Cooking Course", "nameZh": "半日烹饪课", "duration": 240, "price": 1200, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7632,
+      "lng": 99.0206,
+      "address": "182/2 Moo 5, Mae Hia Noi, Mueang Chiang Mai 50100"
+    },
+    "contact": { "phone": "+66 84 615 6885" },
+    "openingHours": { "open": "08:30", "close": "16:30", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["cooking class", "organic farm", "market tour", "family friendly"],
+    "createdAt": "2024-06-15T00:00:00Z"
+  }
+]

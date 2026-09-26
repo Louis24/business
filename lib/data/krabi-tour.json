@@ -1,0 +1,107 @@
+[
+  {
+    "id": "krb-t01",
+    "slug": "four-islands-speedboat-tour-krabi",
+    "name": "Four Islands Speedboat Tour",
+    "nameZh": "四岛快艇一日游·甲米",
+    "tagline": "Phra Nang, Chicken Island, Tub & Poda in one perfect day",
+    "taglineZh": "一天玩遍帕南洞、鸡岛、塔布岛与波达岛",
+    "description": "The classic Krabi day trip: speedboat across to Railay's Phra Nang Cave Beach, Chicken Island with its famous viewpoint, the sandbar walk to Tub Island at low tide, and snorkelling off Poda — with beach lunch included.",
+    "descriptionZh": "甲米经典一日游：快艇前往莱利的帕南洞海滩、著名观景鸡岛，退潮时经沙洲步行至塔布岛，再到波达岛浮潜——含海滩午餐。",
+    "category": "tour",
+    "city": "krabi",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 950,
+    "currency": "THB",
+    "rating": 4.6,
+    "reviewCount": 5200,
+    "services": [
+      { "id": "krb-t01-s1", "name": "Four Islands by Speedboat (with lunch)", "nameZh": "四岛快艇游（含午餐）", "duration": 420, "price": 950, "currency": "THB" },
+      { "id": "krb-t01-s2", "name": "Four Islands by Longtail Boat", "nameZh": "四岛长尾船游", "duration": 420, "price": 700, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0338,
+      "lng": 98.8222,
+      "address": "Ao Nang Beach Pier, Ao Nang, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 637 753" },
+    "openingHours": { "open": "08:00", "close": "17:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["island hopping", "snorkelling", "speedboat", "budget friendly"],
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": "krb-t02",
+    "slug": "hong-islands-tour-krabi",
+    "name": "Hong Islands Tour by Speedboat",
+    "nameZh": "红岛群岛快艇一日游",
+    "tagline": "Lagoons and limestone islets of the Krabi archipelago",
+    "taglineZh": "甲米群岛的泻湖与石灰岩小岛",
+    "description": "Cruise to the stunning Hong archipelago — Hong Lagoon, Hong Island's white-sand beach, Lading (Paradise) Island and Pakbia — best visited early or late to enjoy the emerald water before the crowds arrive.",
+    "descriptionZh": "乘快艇畅游甲米绝美的红岛群岛——红岛泻湖、红岛白沙滩、天堂岛与 Pakbia 岛。建议选择早出或晚归班次，在人潮到来前独享翡翠般的海水。",
+    "category": "tour",
+    "city": "krabi",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 1500,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 3100,
+    "services": [
+      { "id": "krb-t02-s1", "name": "Hong Islands Full-Day Speedboat Tour", "nameZh": "红岛群岛全天快艇游", "duration": 480, "price": 1500, "currency": "THB" },
+      { "id": "krb-t02-s2", "name": "Sunset Tour with Seafood BBQ", "nameZh": "日落海鲜烧烤班次", "duration": 540, "price": 2300, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0338,
+      "lng": 98.8222,
+      "address": "Ao Nang Beach Pier, Ao Nang, Mueang Krabi 81000"
+    },
+    "contact": { "phone": "+66 75 637 753" },
+    "openingHours": { "open": "08:00", "close": "18:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["hong lagoon", "speedboat", "snorkelling", "sunset"],
+    "createdAt": "2024-06-10T00:00:00Z"
+  },
+  {
+    "id": "krb-t03",
+    "slug": "emerald-pool-hot-springs-tour-krabi",
+    "name": "Emerald Pool & Hot Springs Jungle Tour",
+    "nameZh": "翡翠池与温泉丛林一日游",
+    "tagline": "Swim in a jungle pool and soak in natural hot springs",
+    "taglineZh": "丛林翡翠池畅游，天然温泉舒泡",
+    "description": "Head south to Klong Thom for a jungle day: swim in the vivid Emerald Pool (Sa Morakot), soak in the natural hot-spring cascades of Namtok Ron, and explore the Blue Pool trail inside Thung Teao Forest National Park.",
+    "descriptionZh": "南下空通县开启丛林一日游：在翡翠色的翡翠池（Sa Morakot）畅游，泡在暖热的天然温泉瀑布中，再徒步蓝池步道，探索 Thung Teao 国家森林。",
+    "category": "tour",
+    "city": "krabi",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$",
+    "startingPrice": 850,
+    "currency": "THB",
+    "rating": 4.5,
+    "reviewCount": 2400,
+    "services": [
+      { "id": "krb-t03-s1", "name": "Emerald Pool & Hot Springs Day Tour", "nameZh": "翡翠池+温泉一日游", "duration": 480, "price": 850, "currency": "THB" },
+      { "id": "krb-t03-s2", "name": "Combo: Crystal Lagoon & Tiger Cave Temple", "nameZh": "套票：水晶泻湖+虎窟寺", "duration": 600, "price": 1100, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 8.0735,
+      "lng": 99.0063,
+      "address": "Thung Teao Forest National Park, Klong Thom Nuea, Krabi 81120"
+    },
+    "contact": { "phone": "+66 75 620 919" },
+    "openingHours": { "open": "08:00", "close": "16:30", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["jungle", "hot springs", "national park", "nature"],
+    "createdAt": "2024-06-15T00:00:00Z"
+  }
+]

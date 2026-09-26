@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cnx-s01",
+    "slug": "fah-lanna-spa-chiang-mai",
+    "name": "Fah Lanna Spa",
+    "nameZh": "法兰纳水疗·清迈",
+    "tagline": "Lanna-style spa in a beautifully restored old-city house",
+    "taglineZh": "老城精美老宅中的兰纳风情水疗",
+    "description": "Fah Lanna Spa blends traditional Lanna culture with professional spa therapy across several themed branches in Chiang Mai. The Wiang Old City branch, set in a restored wooden house with tropical gardens, is the perfect post-temple retreat.",
+    "descriptionZh": "法兰纳水疗将传统兰纳文化融入专业理疗，在清迈有多家主题分店。位于老城的 Wiang Old City 店由柚木老宅改建，热带花园环绕，是逛完古寺后的完美休憩地。",
+    "category": "spa",
+    "city": "chiang-mai",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$",
+    "startingPrice": 900,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 5100,
+    "services": [
+      { "id": "cnx-s01-s1", "name": "Fah Lanna Signature Package", "nameZh": "法兰纳招牌套餐", "duration": 120, "price": 1650, "currency": "THB" },
+      { "id": "cnx-s01-s2", "name": "Lanna Herbal Steam & Massage", "nameZh": "兰纳草本蒸浴+按摩", "duration": 90, "price": 1200, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7915,
+      "lng": 99.4985,
+      "address": "57/1 Wiang Kaew Rd, Si Phum, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 53 416 178" },
+    "openingHours": { "open": "09:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["lanna style", "heritage house", "herbal steam", "old city"],
+    "createdAt": "2024-01-20T00:00:00Z"
+  },
+  {
+    "id": "cnx-s02",
+    "slug": "oasis-spa-chiang-mai-nimman",
+    "name": "Oasis Spa Chiang Mai (Nimman)",
+    "nameZh": "绿洲水疗·清迈宁曼店",
+    "tagline": "Tropical garden villas in the heart of Nimman",
+    "taglineZh": "宁曼路核心的热带花园别墅水疗",
+    "description": "Just off Nimmanhaemin Road, Oasis Spa Chiang Mai wraps private treatment villas in lush gardens. Couples' suites with outdoor baths, herbal compress rituals and the brand's signature service make it the best luxury escape in the city's trendiest quarter.",
+    "descriptionZh": "绿洲水疗清迈店毗邻宁曼路，私人理疗别墅掩映于热带花园之中。带露天浴池的双人套房、草本球理疗与品牌一贯的贴心服务，是这座文艺街区中最好的奢华休憩所。",
+    "category": "spa",
+    "city": "chiang-mai",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 1900,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 3300,
+    "services": [
+      { "id": "cnx-s02-s1", "name": "Oasis Escape Package", "nameZh": "绿洲放松套餐", "duration": 150, "price": 3300, "currency": "THB" },
+      { "id": "cnx-s02-s2", "name": "Couples Retreat with Outdoor Bath", "nameZh": "双人度假套餐（露天浴池）", "duration": 120, "price": 4600, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7956,
+      "lng": 98.9641,
+      "address": "103 Nimmanhaemin Rd, Suthep, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 53 894 089" },
+    "openingHours": { "open": "10:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["garden villa", "couples", "luxury spa", "nimman"],
+    "createdAt": "2024-02-05T00:00:00Z"
+  },
+  {
+    "id": "cnx-s03",
+    "slug": "zira-spa-chiang-mai",
+    "name": "Zira Spa",
+    "nameZh": "齐拉水疗·清迈",
+    "tagline": "Boutique luxury spa on Ratchadamnoen Road",
+    "taglineZh": "拉差丹嫩路精品奢华水疗",
+    "description": "Zira Spa offers an intimate luxury experience in a serene old-city setting: private treatment suites, a relaxation jacuzzi area and skilled therapists using natural Thai botanicals. Consistently rated among Chiang Mai's top spas.",
+    "descriptionZh": "Zira Spa 在宁静的老城环境中提供小而精的奢华体验：私人理疗套房、放松 jacuzzi 区，治疗师以天然泰式植物精华施术。常年位居清迈水疗口碑前列。",
+    "category": "spa",
+    "city": "chiang-mai",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 1600,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 1900,
+    "services": [
+      { "id": "cnx-s03-s1", "name": "Zira Signature Ritual", "nameZh": "齐拉招牌仪式", "duration": 150, "price": 2900, "currency": "THB" },
+      { "id": "cnx-s03-s2", "name": "Aromatherapy Full Body Massage", "nameZh": "全身香薰按摩", "duration": 90, "price": 1600, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 18.7897,
+      "lng": 99.4975,
+      "address": "9/1 Ratchadamnoen Rd, Si Phum, Mueang Chiang Mai 50200"
+    },
+    "contact": { "phone": "+66 53 449 022" },
+    "openingHours": { "open": "10:00", "close": "22:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["boutique", "natural botanicals", "jacuzzi", "old city"],
+    "createdAt": "2024-02-20T00:00:00Z"
+  }
+]

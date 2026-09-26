@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bkk-h01",
+    "slug": "mandarin-oriental-bangkok",
+    "name": "Mandarin Oriental Bangkok",
+    "nameZh": "文华东方酒店·曼谷",
+    "tagline": "The legendary riverside hotel, a living piece of history",
+    "taglineZh": "湄南河畔的传奇酒店，一部活着的历史",
+    "description": "Since 1876, the Mandarin Oriental has hosted royalty, novelists and film stars on the banks of the Chao Phraya. Butler-serviced rooms, the authors' wing, an award-winning spa and world-class afternoon tea define timeless Bangkok luxury.",
+    "descriptionZh": "自1876年起，文华东方酒店接待过无数皇室、文豪与影星，坐落于湄南河畔。管家服务客房、作家翼、屡获殊荣的水疗与经典下午茶，定义了曼谷的永恒奢华。",
+    "category": "hotel",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$$",
+    "startingPrice": 15000,
+    "currency": "THB",
+    "rating": 4.9,
+    "reviewCount": 4800,
+    "services": [
+      { "id": "bkk-h01-s1", "name": "Deluxe Riverside Room · Nightly Rate", "nameZh": "豪华河景房·每晚", "duration": 1, "price": 16500, "currency": "THB" },
+      { "id": "bkk-h01-s2", "name": "Authors' Wing Suite · Nightly Rate", "nameZh": "作家翼套房·每晚", "duration": 1, "price": 32000, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7244,
+      "lng": 100.5140,
+      "address": "48 Oriental Ave, Bang Rak, Bangkok 10500"
+    },
+    "contact": { "phone": "+66 2 659 9000" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["riverside", "legendary", "luxury", "afternoon tea"],
+    "createdAt": "2024-04-01T00:00:00Z"
+  },
+  {
+    "id": "bkk-h02",
+    "slug": "the-siam-hotel-bangkok",
+    "name": "The Siam Hotel",
+    "nameZh": "暹罗酒店·曼谷",
+    "tagline": "Art deco riverside retreat with private pool villas",
+    "taglineZh": "装饰艺术风格的河畔私邸，私人泳池别墅",
+    "description": "The Siam is a serene Art Deco hideaway along the Chao Phraya in Dusit. All 39 rooms and villas enjoy private pools or plunge pools, and the hotel offers a free boat shuttle to the BTS, plus a beautiful Muay Thai gym and spa.",
+    "descriptionZh": "暹罗酒店是位于律实区湄南河畔的宁静装饰艺术风隐居之所。39 间客房与别墅均配私人泳池或泡池，酒店提供免费接驳船直达 BTS，另有泰拳馆与水疗中心。",
+    "category": "hotel",
+    "city": "bangkok",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$$",
+    "startingPrice": 12000,
+    "currency": "THB",
+    "rating": 4.8,
+    "reviewCount": 2100,
+    "services": [
+      { "id": "bkk-h02-s1", "name": "Pool Villa · Nightly Rate", "nameZh": "泳池别墅·每晚", "duration": 1, "price": 15500, "currency": "THB" },
+      { "id": "bkk-h02-s2", "name": "Connie's Cottage Suite · Nightly Rate", "nameZh": "康妮小筑套房·每晚", "duration": 1, "price": 12000, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7854,
+      "lng": 100.5140,
+      "address": "3/2 Khao Rd, Vachiraphayaban, Dusit, Bangkok 10300"
+    },
+    "contact": { "phone": "+66 2 201 5000" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["art deco", "private pool", "riverside", "quiet area"],
+    "createdAt": "2024-04-10T00:00:00Z"
+  },
+  {
+    "id": "bkk-h03",
+    "slug": "park-hyatt-bangkok",
+    "name": "Park Hyatt Bangkok",
+    "nameZh": "柏悦酒店·曼谷",
+    "tagline": "Sleek design hotel above Central Embassy mall",
+    "taglineZh": "中央大使馆商场之上的时尚设计酒店",
+    "description": "Park Hyatt Bangkok occupies the crown of the Central Embassy complex on Ploenchit Road. Sculptural architecture, a rooftop infinity pool with city views and direct skywalk access to the BTS make it a favourite for design lovers and shoppers.",
+    "descriptionZh": "柏悦酒店位于奔集路 Central Embassy 综合体顶部。雕塑感建筑、可俯瞰城市天际线的屋顶无边泳池，以及天桥直达 BTS，深受设计与购物爱好者青睐。",
+    "category": "hotel",
+    "city": "bangkok",
+    "tier": "verified",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$$",
+    "startingPrice": 9000,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 3600,
+    "services": [
+      { "id": "bkk-h03-s1", "name": "Park King Room · Nightly Rate", "nameZh": "柏悦大床房·每晚", "duration": 1, "price": 9500, "currency": "THB" },
+      { "id": "bkk-h03-s2", "name": "Park Executive Suite · Nightly Rate", "nameZh": "柏悦行政套房·每晚", "duration": 1, "price": 18000, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 13.7333,
+      "lng": 100.5590,
+      "address": "88/1 Witthayu Rd, Lumphini, Pathum Wan, Bangkok 10330"
+    },
+    "contact": { "phone": "+66 2 012 1234" },
+    "openingHours": { "open": "00:00", "close": "24:00", "days": "Daily" },
+    "isFeatured": false,
+    "isVerified": true,
+    "tags": ["design hotel", "rooftop pool", "bts access", "ploenchit"],
+    "createdAt": "2024-04-20T00:00:00Z"
+  }
+]

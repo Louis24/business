@@ -1,212 +1,107 @@
 [
   {
-    "id": "sp001",
-    "slug": "anantara-spa-phuket",
-    "name": "Anantara Spa Phuket",
-    "nameZh": "阿曼达拉水疗普吉岛",
-    "tagline": "A Sanctuary of Pure Bliss",
-    "taglineZh": "纯粹极乐的世外桃源",
-    "description": "Set within a lush tropical garden, Anantara Spa offers a world-class sanctuary where ancient Thai healing traditions are elevated with contemporary luxury. Each treatment is a journey of sensory discovery.",
-    "descriptionZh": "坐落于郁郁葱葱的热带花园之中，阿曼达拉水疗提供世界级疗愈圣所，将古老的泰式疗愈传统与现代奢华完美融合。每一项护理都是感官探索之旅。",
+    "id": "pkt-s01",
+    "slug": "oasis-spa-phuket-laguna",
+    "name": "Oasis Spa Phuket (Laguna)",
+    "nameZh": "绿洲水疗·普吉拉古娜店",
+    "tagline": "Private pool villas and tropical garden treatments",
+    "taglineZh": "私人泳池别墅与热带花园理疗",
+    "description": "Set within tropical gardens near the Laguna complex, Oasis Spa Phuket offers private treatment villas with outdoor baths and couples' suites. Signature treatments blend traditional Thai techniques with natural aromatherapy products.",
+    "descriptionZh": "绿洲水疗坐落于拉古娜度假区旁的热带花园中，提供带露天浴池的私人理疗别墅和双人套房。招牌疗程将传统泰式手法与天然香薰产品完美结合。",
     "category": "spa",
     "city": "phuket",
     "tier": "featured",
-    "heroImage": "/phuket/spa/anantara-hero.jpg",
-    "gallery": [
-      "/phuket/spa/anantara-1.jpg",
-      "/phuket/spa/anantara-2.jpg",
-      "/phuket/spa/anantara-3.jpg"
-    ],
-    "priceRange": "$$$$",
-    "startingPrice": 2500,
-    "currency": "THB",
-    "rating": 4.9,
-    "reviewCount": 621,
-    "services": [
-      {
-        "id": "sp001-s1",
-        "name": "Thai Herbal Ritual",
-        "nameZh": "泰式草药仪式",
-        "description": "A signature 3-step ritual combining herbal steam, body scrub, and massage",
-        "duration": 120,
-        "price": 4500,
-        "currency": "THB"
-      },
-      {
-        "id": "sp001-s2",
-        "name": "Couples Indulgence",
-        "nameZh": "情侣奢享套餐",
-        "duration": 180,
-        "price": 9800,
-        "currency": "THB"
-      },
-      {
-        "id": "sp001-s3",
-        "name": "Aroma Stone Therapy",
-        "nameZh": "香薰热石疗法",
-        "duration": 90,
-        "price": 3200,
-        "currency": "THB"
-      },
-      {
-        "id": "sp001-s4",
-        "name": "Dr. Spiller Facial",
-        "nameZh": "脸部护理",
-        "duration": 60,
-        "price": 2800,
-        "currency": "THB"
-      }
-    ],
-    "location": {
-      "lat": 7.9672,
-      "lng": 98.2901,
-      "address": "168 Moo 1 Srisoonthorn Rd, Cherngtalay, Thalang, Phuket 83110",
-      "googleMapsUrl": "https://goo.gl/maps/spa-example1"
-    },
-    "contact": {
-      "whatsapp": "+66876543210",
-      "wechat": "anantara_phuket_spa",
-      "email": "spa.phuket@anantara.com",
-      "phone": "+66 76 324 333"
-    },
-    "openingHours": {
-      "open": "09:00",
-      "close": "21:00",
-      "days": "Daily"
-    },
-    "isFeatured": true,
-    "isVerified": true,
-    "tags": ["luxury", "couples", "facial", "hot stone", "private suite", "resort spa"],
-    "createdAt": "2024-01-01T00:00:00Z"
-  },
-  {
-    "id": "sp002",
-    "slug": "serenity-spa-laguna",
-    "name": "Serenity Spa at Laguna",
-    "nameZh": "拉古娜宁静水疗",
-    "tagline": "Lagoon Views, Limitless Calm",
-    "taglineZh": "湖景无边，宁静无际",
-    "description": "Overlooking the serene Laguna lagoon, Serenity Spa is a haven of tranquility. Our therapists are trained in holistic wellness approaches that address both body and mind.",
-    "descriptionZh": "俯瞰宁静的拉古娜泻湖，宁静水疗是一处心灵避风港。我们的治疗师受过专业的整体健康训练，身心并重。",
-    "category": "spa",
-    "city": "phuket",
-    "tier": "featured",
-    "heroImage": "/phuket/spa/serenity-hero.jpg",
-    "gallery": ["/phuket/spa/serenity-1.jpg", "/phuket/spa/serenity-2.jpg"],
+    "heroImage": "",
+    "gallery": [],
     "priceRange": "$$$",
-    "startingPrice": 1800,
+    "startingPrice": 1900,
     "currency": "THB",
     "rating": 4.8,
-    "reviewCount": 344,
+    "reviewCount": 3400,
     "services": [
-      {
-        "id": "sp002-s1",
-        "name": "Lagoon Detox Wrap",
-        "nameZh": "泻湖排毒裹敷",
-        "duration": 90,
-        "price": 2800,
-        "currency": "THB"
-      },
-      {
-        "id": "sp002-s2",
-        "name": "Deep Pore Cleansing Facial",
-        "nameZh": "深层清洁面部护理",
-        "duration": 75,
-        "price": 2200,
-        "currency": "THB"
-      },
-      {
-        "id": "sp002-s3",
-        "name": "Signature Serenity Massage",
-        "nameZh": "招牌宁静按摩",
-        "duration": 90,
-        "price": 1800,
-        "currency": "THB"
-      }
+      { "id": "pkt-s01-s1", "name": "Signature Oasis Escape Package", "nameZh": "绿洲招牌放松套餐", "duration": 150, "price": 3400, "currency": "THB" },
+      { "id": "pkt-s01-s2", "name": "Couples Tropical Retreat", "nameZh": "双人热带度假套餐", "duration": 120, "price": 4800, "currency": "THB" }
     ],
     "location": {
-      "lat": 8.0112,
-      "lng": 98.2994,
-      "address": "Laguna Phuket, 29 Moo 4, Srisoonthorn Rd, Cherngtalay, Phuket 83110",
-      "googleMapsUrl": "https://goo.gl/maps/spa-example2"
+      "lat": 7.9985,
+      "lng": 98.3025,
+      "address": "29 Moo 4, Srisoonthorn Rd, Choeng Thale, Thalang, Phuket 83110"
     },
-    "contact": {
-      "whatsapp": "+66867890123",
-      "wechat": "serenity_laguna",
-      "line": "@serenityspa"
-    },
-    "openingHours": {
-      "open": "10:00",
-      "close": "20:00",
-      "days": "Daily"
-    },
+    "contact": { "phone": "+66 76 332 733" },
+    "openingHours": { "open": "10:00", "close": "22:00", "days": "Daily" },
     "isFeatured": true,
     "isVerified": true,
-    "tags": ["lagoon view", "facial", "body wrap", "holistic", "resort"],
+    "tags": ["private villa", "couples", "luxury spa", "laguna"],
     "createdAt": "2024-01-20T00:00:00Z"
   },
   {
-    "id": "sp003",
-    "slug": "devasom-spa-karon",
-    "name": "Devasom Spa Karon",
-    "nameZh": "卡伦天堂水疗",
-    "tagline": "Divine Treatments, Earthly Bliss",
-    "taglineZh": "神圣疗护，人间极乐",
-    "description": "Devasom Spa offers a divine selection of traditional and modern treatments in an intimate boutique setting near Karon Beach. Renowned for exceptional value and personalized service.",
+    "id": "pkt-s02",
+    "slug": "sukko-wellness-spa-phuket",
+    "name": "Sukko Wellness & Spa Phuket",
+    "nameZh": "苏科养生水疗·普吉",
+    "tagline": "Multi-award winning wellness resort spa",
+    "taglineZh": "多次获奖的养生度假水疗",
+    "description": "Sukko Wellness & Spa is an award-winning Thai wellness destination spanning lush gardens at the foot of Khao Rang hill. Treatments range from traditional Thai therapy to multi-day detox and wellness programs guided by experienced therapists.",
+    "descriptionZh": "Sukko 养生水疗多次荣获泰国奖项，坐落于考朗山脚下的葱郁园林之中。从传统泰式理疗到多日排毒养生计划，由资深治疗师全程贴心服务。",
+    "category": "spa",
+    "city": "phuket",
+    "tier": "featured",
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$",
+    "startingPrice": 2200,
+    "currency": "THB",
+    "rating": 4.7,
+    "reviewCount": 2600,
+    "services": [
+      { "id": "pkt-s02-s1", "name": "Sukko Signature Journey", "nameZh": "苏科招牌疗程", "duration": 180, "price": 3900, "currency": "THB" },
+      { "id": "pkt-s02-s2", "name": "Thai Herbal Detox Wrap", "nameZh": "泰式草药排毒裹敷", "duration": 120, "price": 2600, "currency": "THB" }
+    ],
+    "location": {
+      "lat": 7.9012,
+      "lng": 98.3798,
+      "address": "5/10 Moo 3, Chalermprakiat Rd, Ratsada, Mueang Phuket 83000"
+    },
+    "contact": { "phone": "+66 76 601 899" },
+    "openingHours": { "open": "09:00", "close": "21:00", "days": "Daily" },
+    "isFeatured": true,
+    "isVerified": true,
+    "tags": ["wellness", "detox", "awards", "garden resort"],
+    "createdAt": "2024-02-05T00:00:00Z"
+  },
+  {
+    "id": "pkt-s03",
+    "slug": "banyan-tree-spa-phuket",
+    "name": "Banyan Tree Spa Phuket",
+    "nameZh": "悦榕庄水疗·普吉",
+    "tagline": "The original Banyan Tree spa — where it all began",
+    "taglineZh": "悦榕庄品牌发源地，普吉顶级奢华水疗",
+    "description": "Banyan Tree Spa Phuket is the flagship spa of the Banyan Tree brand, set in the exclusive Laguna Phuket resort area. Expect highly trained therapists, open-air pavilions and the brand's signature High Touch treatments using Asian healing philosophies.",
+    "descriptionZh": "悦榕庄普吉水疗是悦榕庄品牌的首家水疗，位于拉古娜奢华度假区内。训练有素的治疗师、开放式理疗亭，以及以亚洲疗愈哲学为核心的招牌 High Touch 疗程。",
     "category": "spa",
     "city": "phuket",
     "tier": "verified",
-    "heroImage": "/phuket/spa/devasom-hero.jpg",
-    "gallery": ["/phuket/spa/devasom-1.jpg"],
-    "priceRange": "$$",
-    "startingPrice": 900,
+    "heroImage": "",
+    "gallery": [],
+    "priceRange": "$$$$",
+    "startingPrice": 4200,
     "currency": "THB",
-    "rating": 4.7,
-    "reviewCount": 215,
+    "rating": 4.9,
+    "reviewCount": 1800,
     "services": [
-      {
-        "id": "sp003-s1",
-        "name": "Karon Sunset Ritual",
-        "nameZh": "卡伦夕阳仪式",
-        "duration": 120,
-        "price": 2400,
-        "currency": "THB"
-      },
-      {
-        "id": "sp003-s2",
-        "name": "Thai Herbal Compress",
-        "nameZh": "泰式草药球按摩",
-        "duration": 90,
-        "price": 1200,
-        "currency": "THB"
-      },
-      {
-        "id": "sp003-s3",
-        "name": "Collagen Facial",
-        "nameZh": "胶原蛋白面部护理",
-        "duration": 60,
-        "price": 900,
-        "currency": "THB"
-      }
+      { "id": "pkt-s03-s1", "name": "Rainforest Indulgence Package", "nameZh": "雨林极致呵护套餐", "duration": 180, "price": 6900, "currency": "THB" },
+      { "id": "pkt-s03-s2", "name": "Harmony Banyan Massage", "nameZh": "悦榕和谐按摩", "duration": 90, "price": 4200, "currency": "THB" }
     ],
     "location": {
-      "lat": 7.8389,
-      "lng": 98.2964,
-      "address": "34 Patak Rd, Karon, Mueang, Phuket 83100",
-      "googleMapsUrl": "https://goo.gl/maps/spa-example3"
+      "lat": 8.0032,
+      "lng": 98.3056,
+      "address": "33 Moo 4, Srisoonthorn Rd, Choeng Thale, Thalang, Phuket 83110"
     },
-    "contact": {
-      "whatsapp": "+66878901234",
-      "line": "@devasomspa"
-    },
-    "openingHours": {
-      "open": "10:00",
-      "close": "21:30",
-      "days": "Daily"
-    },
+    "contact": { "phone": "+66 76 372 400" },
+    "openingHours": { "open": "09:00", "close": "21:00", "days": "Daily" },
     "isFeatured": false,
     "isVerified": true,
-    "tags": ["boutique", "karon", "herbal compress", "facial", "good value"],
+    "tags": ["luxury", "open-air pavilion", "laguna", "flagship"],
     "createdAt": "2024-03-01T00:00:00Z"
   }
 ]
