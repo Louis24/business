@@ -1,7 +1,9 @@
-'use client';
+import View from './View'
 
-import UserCenterClient from './UserCenterClient';
+export const metadata = {
+  alternates: { canonical: '/user' },
+};
 
-export default function UserPage() {
-  return <UserCenterClient />;
+export default function Page() {
+  return <View />
 }

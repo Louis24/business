@@ -17,6 +17,7 @@ export default function HomePage() {
         <p className="text-muted-foreground text-lg mb-16">
           Chinese Business Chamber × Southeast Asia Travel &amp; Living Guide
         </p>
+        <p className="seo-intro text-muted-foreground">华商联合收录中国华商企业名录与东南亚旅游生活指南，提供商旅对接、城市生活与本地商家信息。</p>
 
         {/* Two entries: 中国商会 × 东南亚旅游生活 */}
         <EntryCards />
