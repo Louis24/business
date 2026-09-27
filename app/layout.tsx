@@ -5,6 +5,7 @@ import UnifiedFooter from '@/components/layout/UnifiedFooter';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://business.neonstack.net'),
+
   title: '华商联合 · 东南亚旅游生活导览 | Chamber & SEA Travel Guide',
   description: '中国华商企业名录与东南亚旅游生活导览——商业对接与旅行生活一站式服务。',
   icons: {

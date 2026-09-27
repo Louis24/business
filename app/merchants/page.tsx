@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import MerchantsPageClient from './MerchantsPageClient';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/merchants' },
   title: '企业名录 — 华商联合 B2B 平台',
 };
 

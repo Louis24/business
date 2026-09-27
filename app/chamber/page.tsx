@@ -1,3 +1,7 @@
+export const metadata = {
+  alternates: { canonical: '/chamber' },
+};
+
 import { supabase } from '@/lib/supabase';
 import type { Merchant, Product, NewsItem } from '@/lib/types';
 import HeroSection from '@/components/chamber/home/HeroSection';

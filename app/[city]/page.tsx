@@ -1,3 +1,7 @@
+export const metadata = {
+  alternates: { canonical: '/[city]' },
+};
+
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import type { Metadata } from 'next';

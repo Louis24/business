@@ -1,3 +1,7 @@
+export const metadata = {
+  alternates: { canonical: '/product/[id]' },
+};
+
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { supabase } from '@/lib/supabase';

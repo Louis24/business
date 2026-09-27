@@ -1,3 +1,7 @@
+export const metadata = {
+  alternates: { canonical: '/' },
+};
+
 import EntryCards from '@/components/home/EntryCards';
 
 export const dynamic = 'force-static';

@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import NewsPageClient from './NewsPageClient';
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/news' },
   title: '商会动态 — 华商联合 B2B 平台',
 };
 
