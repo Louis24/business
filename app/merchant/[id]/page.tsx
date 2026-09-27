@@ -1,7 +1,3 @@
-export const metadata = {
-  alternates: { canonical: '/merchant/[id]' },
-};
-
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { supabase } from '@/lib/supabase';
